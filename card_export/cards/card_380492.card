@@ -1,0 +1,12 @@
+<card>
+  <text>When Satyr Grovedancer enters the battlefield, put a +1/+1 counter on target creature.</text>
+  <mana>1 Green </mana>
+  <set>Journey into Nyx</set>
+  <type>Creature  &#8212; Satyr Shaman</type>
+  <pt>1 / 1</pt>
+  <name>Satyr Grovedancer</name>
+  <cmc>2</cmc>
+  <number>139</number>
+  <rarity>Common</rarity>
+  <img>img_380492.jpg</img>
+</card>

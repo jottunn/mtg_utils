@@ -1,0 +1,12 @@
+<card>
+  <text>Destroy target attacking or blocking creature.</text>
+  <pt></pt>
+  <name>Divine Verdict</name>
+  <rarity>Common</rarity>
+  <mana>3 White </mana>
+  <number>8</number>
+  <set>Theros</set>
+  <cmc>4</cmc>
+  <type>Instant</type>
+  <img>img_373648.jpg</img>
+</card>

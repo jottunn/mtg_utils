@@ -1,0 +1,12 @@
+<card>
+  <text>Destroy target creature with power 4 or greater. Scry 1. </text>
+  <pt></pt>
+  <name>Vanquish the Foul</name>
+  <rarity>Uncommon</rarity>
+  <mana>5 White </mana>
+  <number>35</number>
+  <set>Theros</set>
+  <cmc>6</cmc>
+  <type>Sorcery</type>
+  <img>img_373640.jpg</img>
+</card>

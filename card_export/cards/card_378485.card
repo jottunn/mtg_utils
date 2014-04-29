@@ -1,0 +1,14 @@
+<card>
+  <cmc>6</cmc>
+  <pt>5 / 5</pt>
+  <rarity>Uncommon</rarity>
+  <number>113</number>
+  <type>Creature  &#8212; Cyclops</type>
+  <name>Thunder Brute</name>
+  <set>Born of the Gods</set>
+  <mana>4 Red Red </mana>
+  <text>Trample
+Tribute 3 
+When Thunder Brute enters the battlefield, if tribute wasn't paid, it gains haste until end of turn.</text>
+  <img>img_378485.jpg</img>
+</card>

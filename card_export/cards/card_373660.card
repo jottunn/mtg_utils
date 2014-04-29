@@ -1,0 +1,12 @@
+<card>
+  <text>Up to two target creatures each get +1/+1 and gain lifelink until end of turn.</text>
+  <pt></pt>
+  <name>Cutthroat Maneuver</name>
+  <rarity>Uncommon</rarity>
+  <mana>3 Black </mana>
+  <number>82</number>
+  <set>Theros</set>
+  <cmc>4</cmc>
+  <type>Instant</type>
+  <img>img_373660.jpg</img>
+</card>

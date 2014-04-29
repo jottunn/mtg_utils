@@ -1,0 +1,14 @@
+<card>
+  <text>Enchant creature you control
+Enchanted creature gets +1/+1.
+Whenever enchanted creature deals combat damage to a player, you may sacrifice Mortal Obstinacy. If you do, destroy target enchantment.</text>
+  <mana>White </mana>
+  <set>Journey into Nyx</set>
+  <type>Enchantment  &#8212; Aura</type>
+  <pt></pt>
+  <name>Mortal Obstinacy</name>
+  <cmc>1</cmc>
+  <number>17</number>
+  <rarity>Common</rarity>
+  <img>img_380457.jpg</img>
+</card>

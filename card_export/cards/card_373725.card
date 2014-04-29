@@ -1,0 +1,12 @@
+<card>
+  <text>Scry 2, then draw two cards. You lose 2 life. </text>
+  <pt></pt>
+  <name>Read the Bones</name>
+  <rarity>Common</rarity>
+  <mana>2 Black </mana>
+  <number>101</number>
+  <set>Theros</set>
+  <cmc>3</cmc>
+  <type>Sorcery</type>
+  <img>img_373725.jpg</img>
+</card>

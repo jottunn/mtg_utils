@@ -1,0 +1,12 @@
+<card>
+  <text>Scry 3, then reveal the top card of your library. Draw cards equal to that card's converted mana cost. </text>
+  <mana>5 Blue </mana>
+  <set>Journey into Nyx</set>
+  <type>Sorcery</type>
+  <pt></pt>
+  <name>Interpret the Signs</name>
+  <cmc>6</cmc>
+  <number>43</number>
+  <rarity>Uncommon</rarity>
+  <img>img_380440.jpg</img>
+</card>

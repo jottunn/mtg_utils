@@ -1,0 +1,14 @@
+<card>
+  <text>Flying
+Discard a card: Prognostic Sphinx gains hexproof until end of turn. Tap it.
+Whenever Prognostic Sphinx attacks, scry 3. </text>
+  <pt>3 / 5</pt>
+  <name>Prognostic Sphinx</name>
+  <rarity>Rare</rarity>
+  <mana>3 Blue Blue </mana>
+  <number>60</number>
+  <set>Theros</set>
+  <cmc>5</cmc>
+  <type>Creature  &#8212; Sphinx</type>
+  <img>img_373617.jpg</img>
+</card>

@@ -1,0 +1,13 @@
+<card>
+  <text>Defender, hexproof
+Tap: Add one mana of any color to your mana pool.</text>
+  <pt>0 / 3</pt>
+  <name>Sylvan Caryatid</name>
+  <rarity>Rare</rarity>
+  <mana>1 Green </mana>
+  <number>180</number>
+  <set>Theros</set>
+  <cmc>2</cmc>
+  <type>Creature  &#8212; Plant</type>
+  <img>img_373624.jpg</img>
+</card>

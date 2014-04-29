@@ -1,0 +1,13 @@
+<card>
+  <text>Flying
+When Blood-Toll Harpy enters the battlefield, each player loses 1 life.</text>
+  <pt>2 / 1</pt>
+  <name>Blood-Toll Harpy</name>
+  <rarity>Common</rarity>
+  <mana>2 Black </mana>
+  <number>79</number>
+  <set>Theros</set>
+  <cmc>3</cmc>
+  <type>Creature  &#8212; Harpy</type>
+  <img>img_373638.jpg</img>
+</card>

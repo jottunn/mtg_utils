@@ -1,0 +1,13 @@
+<card>
+  <cmc>5</cmc>
+  <pt>3 / 3</pt>
+  <rarity>Uncommon</rarity>
+  <number>128</number>
+  <type>Creature  &#8212; Beast</type>
+  <name>Nessian Demolok</name>
+  <set>Born of the Gods</set>
+  <mana>3 Green Green </mana>
+  <text>Tribute 3 
+When Nessian Demolok enters the battlefield, if tribute wasn't paid, destroy target noncreature permanent.</text>
+  <img>img_378500.jpg</img>
+</card>

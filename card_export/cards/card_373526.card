@@ -1,0 +1,12 @@
+<card>
+  <text>When Wild Celebrants enters the battlefield, you may destroy target artifact.</text>
+  <pt>5 / 3</pt>
+  <name>Wild Celebrants</name>
+  <rarity>Common</rarity>
+  <mana>3 Red Red </mana>
+  <number>147</number>
+  <set>Theros</set>
+  <cmc>5</cmc>
+  <type>Creature  &#8212; Satyr</type>
+  <img>img_373526.jpg</img>
+</card>

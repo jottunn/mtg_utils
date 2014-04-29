@@ -1,0 +1,14 @@
+<card>
+  <cmc>5</cmc>
+  <pt>4 / 4</pt>
+  <rarity>Mythic Rare</rarity>
+  <number>144</number>
+  <type>Enchantment Creature  &#8212; Manticore</type>
+  <name>Chromanticore</name>
+  <set>Born of the Gods</set>
+  <mana>White Blue Black Red Green </mana>
+  <text>2WhiteBlueBlackRedGreen Bestow 
+Flying, first strike, vigilance, trample, lifelink
+Enchanted creature gets +4/+4 and has flying, first strike, vigilance, trample, and lifelink.</text>
+  <img>img_378516.jpg</img>
+</card>

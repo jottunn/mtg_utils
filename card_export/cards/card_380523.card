@@ -1,0 +1,13 @@
+<card>
+  <text>2Red more to cast for each target beyond the first.Strive &#8212; Twinflame costs 
+Choose any number of target creatures you control. For each of them, put a token that's a copy of that creature onto the battlefield. Those tokens have haste. Exile them at the beginning of the next end step.</text>
+  <mana>1 Red </mana>
+  <set>Journey into Nyx</set>
+  <type>Sorcery</type>
+  <pt></pt>
+  <name>Twinflame</name>
+  <cmc>2</cmc>
+  <number>115</number>
+  <rarity>Rare</rarity>
+  <img>img_380523.jpg</img>
+</card>

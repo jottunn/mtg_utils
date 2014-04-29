@@ -1,0 +1,12 @@
+<card>
+  <text>Target creature gets +3/+1 until end of turn. Scry 1. </text>
+  <pt></pt>
+  <name>Titan's Strength</name>
+  <rarity>Common</rarity>
+  <mana>Red </mana>
+  <number>145</number>
+  <set>Theros</set>
+  <cmc>1</cmc>
+  <type>Instant</type>
+  <img>img_373607.jpg</img>
+</card>

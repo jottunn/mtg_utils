@@ -1,0 +1,14 @@
+<card>
+  <text>6Red Bestow 
+Purphoros's Emissary can't be blocked except by two or more creatures.
+Enchanted creature gets +3/+3 and can't be blocked except by two or more creatures.</text>
+  <pt>3 / 3</pt>
+  <name>Purphoros's Emissary</name>
+  <rarity>Uncommon</rarity>
+  <mana>3 Red </mana>
+  <number>136</number>
+  <set>Theros</set>
+  <cmc>4</cmc>
+  <type>Enchantment Creature  &#8212; Ox</type>
+  <img>img_373505.jpg</img>
+</card>

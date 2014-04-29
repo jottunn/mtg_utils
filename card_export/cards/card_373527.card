@@ -1,0 +1,12 @@
+<card>
+  <text>Return target creature to its owner's hand. Scry 1. </text>
+  <pt></pt>
+  <name>Voyage's End</name>
+  <rarity>Common</rarity>
+  <mana>1 Blue </mana>
+  <number>73</number>
+  <set>Theros</set>
+  <cmc>2</cmc>
+  <type>Instant</type>
+  <img>img_373527.jpg</img>
+</card>

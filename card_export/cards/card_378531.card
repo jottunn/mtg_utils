@@ -1,0 +1,13 @@
+<card>
+  <cmc>5</cmc>
+  <pt></pt>
+  <rarity>Rare</rarity>
+  <number>159</number>
+  <type>Legendary Artifact</type>
+  <name>Heroes' Podium</name>
+  <set>Born of the Gods</set>
+  <mana>5 </mana>
+  <text>Each legendary creature you control gets +1/+1 for each other legendary creature you control.
+Variable Colorless, Tap: Look at the top X cards of your library. You may reveal a legendary creature card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.</text>
+  <img>img_378531.jpg</img>
+</card>

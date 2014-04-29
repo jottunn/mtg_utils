@@ -1,0 +1,12 @@
+<card>
+  <text>When Returned Reveler dies, each player puts the top three cards of his or her library into his or her graveyard.</text>
+  <mana>1 Black </mana>
+  <set>Journey into Nyx</set>
+  <type>Creature  &#8212; Zombie Satyr</type>
+  <pt>1 / 3</pt>
+  <name>Returned Reveler</name>
+  <cmc>2</cmc>
+  <number>79</number>
+  <rarity>Common</rarity>
+  <img>img_380481.jpg</img>
+</card>

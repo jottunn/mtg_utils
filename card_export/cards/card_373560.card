@@ -1,0 +1,14 @@
+<card>
+  <text>Temple of Triumph enters the battlefield tapped.
+When Temple of Triumph enters the battlefield, scry 1. 
+Tap: Add Red or White to your mana pool.</text>
+  <pt></pt>
+  <name>Temple of Triumph</name>
+  <rarity>Rare</rarity>
+  <mana></mana>
+  <number>228</number>
+  <set>Theros</set>
+  <cmc>Temple of Triumph</cmc>
+  <type>Land</type>
+  <img>img_373560.jpg</img>
+</card>

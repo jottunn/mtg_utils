@@ -1,0 +1,12 @@
+<card>
+  <text>Constellation &#8212; Whenever Strength from the Fallen or another enchantment enters the battlefield under your control, target creature gets +X/+X until end of turn, where X is the number of creature cards in your graveyard.</text>
+  <mana>1 Green </mana>
+  <set>Journey into Nyx</set>
+  <type>Enchantment</type>
+  <pt></pt>
+  <name>Strength from the Fallen</name>
+  <cmc>2</cmc>
+  <number>143</number>
+  <rarity>Uncommon</rarity>
+  <img>img_380511.jpg</img>
+</card>

@@ -1,0 +1,12 @@
+<card>
+  <text>Target creature gets +2/+2 until end of turn. Untap that creature.</text>
+  <pt></pt>
+  <name>Savage Surge</name>
+  <rarity>Common</rarity>
+  <mana>1 Green </mana>
+  <number>176</number>
+  <set>Theros</set>
+  <cmc>2</cmc>
+  <type>Instant</type>
+  <img>img_373602.jpg</img>
+</card>

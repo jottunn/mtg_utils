@@ -1,0 +1,14 @@
+<card>
+  <text>Temple of Epiphany enters the battlefield tapped.
+When Temple of Epiphany enters the battlefield, scry 1. 
+Tap: Add Blue or Red to your mana pool.</text>
+  <mana></mana>
+  <set>Journey into Nyx</set>
+  <type>Land</type>
+  <pt></pt>
+  <name>Temple of Epiphany</name>
+  <cmc>Temple of Epiphany</cmc>
+  <number>164</number>
+  <rarity>Rare</rarity>
+  <img>img_380514.jpg</img>
+</card>

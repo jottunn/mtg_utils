@@ -1,0 +1,12 @@
+<card>
+  <text>Destroy target creature with power 4 or greater. It can't be regenerated.</text>
+  <mana>1 White </mana>
+  <set>Journey into Nyx</set>
+  <type>Instant</type>
+  <pt></pt>
+  <name>Reprisal</name>
+  <cmc>2</cmc>
+  <number>23</number>
+  <rarity>Uncommon</rarity>
+  <img>img_380480.jpg</img>
+</card>

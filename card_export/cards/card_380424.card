@@ -1,0 +1,14 @@
+<card>
+  <text>3Black Bestow 
+Gnarled Scarhide can't block.
+Enchanted creature gets +2/+1 and can't block.</text>
+  <mana>Black </mana>
+  <set>Journey into Nyx</set>
+  <type>Enchantment Creature  &#8212; Minotaur</type>
+  <pt>2 / 1</pt>
+  <name>Gnarled Scarhide</name>
+  <cmc>1</cmc>
+  <number>72</number>
+  <rarity>Uncommon</rarity>
+  <img>img_380424.jpg</img>
+</card>

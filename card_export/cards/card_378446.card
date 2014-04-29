@@ -1,0 +1,14 @@
+<card>
+  <cmc>3</cmc>
+  <pt></pt>
+  <rarity>Common</rarity>
+  <number>74</number>
+  <type>Enchantment  &#8212; Aura</type>
+  <name>Grisly Transformation</name>
+  <set>Born of the Gods</set>
+  <mana>2 Black </mana>
+  <text>Enchant creature
+When Grisly Transformation enters the battlefield, draw a card.
+Enchanted creature has intimidate. </text>
+  <img>img_378446.jpg</img>
+</card>

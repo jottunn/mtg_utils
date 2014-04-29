@@ -1,0 +1,12 @@
+<card>
+  <text>Magma Spray deals 2 damage to target creature. If that creature would die this turn, exile it instead.</text>
+  <mana>Red </mana>
+  <set>Journey into Nyx</set>
+  <type>Instant</type>
+  <pt></pt>
+  <name>Magma Spray</name>
+  <cmc>1</cmc>
+  <number>103</number>
+  <rarity>Common</rarity>
+  <img>img_380452.jpg</img>
+</card>

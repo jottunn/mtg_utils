@@ -1,0 +1,14 @@
+<card>
+  <cmc>5</cmc>
+  <pt>6 / 7</pt>
+  <rarity>Mythic Rare</rarity>
+  <number>148</number>
+  <type>Legendary Enchantment Creature  &#8212; God</type>
+  <name>Karametra, God of Harvests</name>
+  <set>Born of the Gods</set>
+  <mana>3 Green White </mana>
+  <text>Indestructible
+As long as your devotion to green and white is less than seven, Karametra isn't a creature.
+Whenever you cast a creature spell, you may search your library for a Forest or Plains card, put it onto the battlefield tapped, then shuffle your library.</text>
+  <img>img_378520.jpg</img>
+</card>

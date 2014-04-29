@@ -1,0 +1,13 @@
+<card>
+  <text>Enchant creature
+Enchanted creature has double strike as long as it's an enchantment. Otherwise, prevent all damage that would be dealt by enchanted creature. </text>
+  <mana>2 White </mana>
+  <set>Journey into Nyx</set>
+  <type>Enchantment  &#8212; Aura</type>
+  <pt></pt>
+  <name>Armament of Nyx</name>
+  <cmc>3</cmc>
+  <number>4</number>
+  <rarity>Common</rarity>
+  <img>img_380371.jpg</img>
+</card>

@@ -1,0 +1,12 @@
+<card>
+  <text>1Blue, Sacrifice Font of Fortunes: Draw two cards.</text>
+  <mana>1 Blue </mana>
+  <set>Journey into Nyx</set>
+  <type>Enchantment</type>
+  <pt></pt>
+  <name>Font of Fortunes</name>
+  <cmc>2</cmc>
+  <number>38</number>
+  <rarity>Common</rarity>
+  <img>img_380418.jpg</img>
+</card>

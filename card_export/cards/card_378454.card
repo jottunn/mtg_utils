@@ -1,0 +1,13 @@
+<card>
+  <cmc>3</cmc>
+  <pt>1 / 3</pt>
+  <rarity>Common</rarity>
+  <number>82</number>
+  <type>Creature  &#8212; Zombie</type>
+  <name>Servant of Tymaret</name>
+  <set>Born of the Gods</set>
+  <mana>2 Black </mana>
+  <text>Inspired &#8212; Whenever Servant of Tymaret becomes untapped, each opponent loses 1 life. You gain life equal to the life lost this way.
+2Black: Regenerate Servant of Tymaret.</text>
+  <img>img_378454.jpg</img>
+</card>

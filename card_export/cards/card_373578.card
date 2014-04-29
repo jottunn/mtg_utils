@@ -1,0 +1,12 @@
+<card>
+  <text>Heroic &#8212; Whenever you cast a spell that targets Akroan Crusader, put a 1/1 red Soldier creature token with haste onto the battlefield.</text>
+  <pt>1 / 1</pt>
+  <name>Akroan Crusader</name>
+  <rarity>Common</rarity>
+  <mana>Red </mana>
+  <number>111</number>
+  <set>Theros</set>
+  <cmc>1</cmc>
+  <type>Creature  &#8212; Human Soldier</type>
+  <img>img_373578.jpg</img>
+</card>

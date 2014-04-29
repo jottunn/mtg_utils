@@ -1,0 +1,14 @@
+<card>
+  <cmc>3</cmc>
+  <pt>0 / 0</pt>
+  <rarity>Rare</rarity>
+  <number>137</number>
+  <type>Creature  &#8212; Hydra</type>
+  <name>Scourge of Skola Vale</name>
+  <set>Born of the Gods</set>
+  <mana>2 Green </mana>
+  <text>Trample
+Scourge of Skola Vale enters the battlefield with two +1/+1 counters on it.
+Tap, Sacrifice another creature: Put a number of +1/+1 counters on Scourge of Skola Vale equal to the sacrificed creature's toughness.</text>
+  <img>img_378509.jpg</img>
+</card>

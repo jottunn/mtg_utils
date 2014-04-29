@@ -1,0 +1,15 @@
+<card>
+  <cmc>2</cmc>
+  <pt></pt>
+  <rarity>Common</rarity>
+  <number>52</number>
+  <type>Enchantment  &#8212; Aura</type>
+  <name>Stratus Walk</name>
+  <set>Born of the Gods</set>
+  <mana>1 Blue </mana>
+  <text>Enchant creature
+When Stratus Walk enters the battlefield, draw a card.
+Enchanted creature has flying.
+Enchanted creature can block only creatures with flying.</text>
+  <img>img_378424.jpg</img>
+</card>

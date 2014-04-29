@@ -1,0 +1,15 @@
+<card>
+  <cmc>3</cmc>
+  <pt></pt>
+  <rarity>Uncommon</rarity>
+  <number>146</number>
+  <type>Enchantment  &#8212; Aura</type>
+  <name>Ephara's Enlightenment</name>
+  <set>Born of the Gods</set>
+  <mana>1 White Blue </mana>
+  <text>Enchant creature
+When Ephara's Enlightenment enters the battlefield, put a +1/+1 counter on enchanted creature.
+Enchanted creature has flying.
+Whenever a creature enters the battlefield under your control, you may return Ephara's Enlightenment to its owner's hand.</text>
+  <img>img_378518.jpg</img>
+</card>

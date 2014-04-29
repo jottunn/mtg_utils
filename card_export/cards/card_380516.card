@@ -1,0 +1,12 @@
+<card>
+  <text>Heroic &#8212; Whenever you cast a spell that targets Tethmos High Priest, return target creature card with converted mana cost 2 or less from your graveyard to the battlefield.</text>
+  <mana>2 White </mana>
+  <set>Journey into Nyx</set>
+  <type>Creature  &#8212; Cat Cleric</type>
+  <pt>2 / 3</pt>
+  <name>Tethmos High Priest</name>
+  <cmc>3</cmc>
+  <number>29</number>
+  <rarity>Uncommon</rarity>
+  <img>img_380516.jpg</img>
+</card>

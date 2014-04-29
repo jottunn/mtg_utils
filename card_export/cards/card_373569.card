@@ -1,0 +1,12 @@
+<card>
+  <text>When Pharika's Mender enters the battlefield, you may return target creature or enchantment card from your graveyard to your hand.</text>
+  <pt>4 / 3</pt>
+  <name>Pharika's Mender</name>
+  <rarity>Uncommon</rarity>
+  <mana>3 Black Green </mana>
+  <number>197</number>
+  <set>Theros</set>
+  <cmc>5</cmc>
+  <type>Creature  &#8212; Gorgon</type>
+  <img>img_373569.jpg</img>
+</card>

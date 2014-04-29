@@ -1,0 +1,13 @@
+<card>
+  <cmc>1</cmc>
+  <pt></pt>
+  <rarity>Common</rarity>
+  <number>9</number>
+  <type>Enchantment  &#8212; Aura</type>
+  <name>Ephara's Radiance</name>
+  <set>Born of the Gods</set>
+  <mana>White </mana>
+  <text>Enchant creature
+1White, Tap: You gain 3 life."Enchanted creature has "</text>
+  <img>img_378381.jpg</img>
+</card>

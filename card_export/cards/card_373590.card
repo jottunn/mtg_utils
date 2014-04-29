@@ -1,0 +1,12 @@
+<card>
+  <text>Whenever Akroan Hoplite attacks, it gets +X/+0 until end of turn, where X is the number of attacking creatures you control.</text>
+  <pt>1 / 2</pt>
+  <name>Akroan Hoplite</name>
+  <rarity>Uncommon</rarity>
+  <mana>Red White </mana>
+  <number>185</number>
+  <set>Theros</set>
+  <cmc>2</cmc>
+  <type>Creature  &#8212; Human Soldier</type>
+  <img>img_373590.jpg</img>
+</card>

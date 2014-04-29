@@ -1,0 +1,12 @@
+<card>
+  <text>Exile target creature with power 2 or less. Its controller gains 4 life.</text>
+  <pt></pt>
+  <name>Last Breath</name>
+  <rarity>Common</rarity>
+  <mana>1 White </mana>
+  <number>22</number>
+  <set>Theros</set>
+  <cmc>2</cmc>
+  <type>Instant</type>
+  <img>img_373680.jpg</img>
+</card>

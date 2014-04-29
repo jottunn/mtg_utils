@@ -1,0 +1,13 @@
+<card>
+  <text>Flying
+Vaporkin can block only creatures with flying.</text>
+  <pt>2 / 1</pt>
+  <name>Vaporkin</name>
+  <rarity>Common</rarity>
+  <mana>1 Blue </mana>
+  <number>72</number>
+  <set>Theros</set>
+  <cmc>2</cmc>
+  <type>Creature  &#8212; Elemental</type>
+  <img>img_373547.jpg</img>
+</card>

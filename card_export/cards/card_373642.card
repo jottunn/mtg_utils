@@ -1,0 +1,12 @@
+<card>
+  <text>Target creature gets +2/+0 until end of turn. Regenerate it. You lose 2 life.</text>
+  <pt></pt>
+  <name>Boon of Erebos</name>
+  <rarity>Common</rarity>
+  <mana>Black </mana>
+  <number>80</number>
+  <set>Theros</set>
+  <cmc>1</cmc>
+  <type>Instant</type>
+  <img>img_373642.jpg</img>
+</card>

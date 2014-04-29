@@ -1,0 +1,14 @@
+<card>
+  <cmc>5</cmc>
+  <pt>6 / 5</pt>
+  <rarity>Mythic Rare</rarity>
+  <number>156</number>
+  <type>Legendary Enchantment Creature  &#8212; God</type>
+  <name>Xenagos, God of Revels</name>
+  <set>Born of the Gods</set>
+  <mana>3 Red Green </mana>
+  <text>Indestructible
+As long as your devotion to red and green is less than seven, Xenagos isn't a creature.
+At the beginning of combat on your turn, another target creature you control gains haste and gets +X/+X until end of turn, where X is that creature's power.</text>
+  <img>img_378528.jpg</img>
+</card>

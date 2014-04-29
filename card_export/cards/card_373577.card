@@ -1,0 +1,13 @@
+<card>
+  <text>Flying
+1White: Prevent the next 1 combat damage that would be dealt to you this turn.</text>
+  <pt>2 / 3</pt>
+  <name>Decorated Griffin</name>
+  <rarity>Uncommon</rarity>
+  <mana>4 White </mana>
+  <number>7</number>
+  <set>Theros</set>
+  <cmc>5</cmc>
+  <type>Creature  &#8212; Griffin</type>
+  <img>img_373577.jpg</img>
+</card>

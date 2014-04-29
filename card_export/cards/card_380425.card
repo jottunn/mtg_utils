@@ -1,0 +1,12 @@
+<card>
+  <text>Godhunter Octopus can't attack unless defending player controls an enchantment or an enchanted permanent.</text>
+  <mana>5 Blue </mana>
+  <set>Journey into Nyx</set>
+  <type>Creature  &#8212; Octopus</type>
+  <pt>5 / 5</pt>
+  <name>Godhunter Octopus</name>
+  <cmc>6</cmc>
+  <number>39</number>
+  <rarity>Common</rarity>
+  <img>img_380425.jpg</img>
+</card>

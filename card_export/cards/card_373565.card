@@ -1,0 +1,12 @@
+<card>
+  <text>Black in the mana costs of permanents you control counts toward your devotion to black.)When Mogis's Marauder enters the battlefield, up to X target creatures each gain intimidate and haste until end of turn, where X is your devotion to black. </text>
+  <pt>2 / 2</pt>
+  <name>Mogis's Marauder</name>
+  <rarity>Uncommon</rarity>
+  <mana>2 Black </mana>
+  <number>97</number>
+  <set>Theros</set>
+  <cmc>3</cmc>
+  <type>Creature  &#8212; Human Berserker</type>
+  <img>img_373565.jpg</img>
+</card>

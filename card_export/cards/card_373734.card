@@ -1,0 +1,14 @@
+<card>
+  <text>Temple of Deceit enters the battlefield tapped.
+When Temple of Deceit enters the battlefield, scry 1. 
+Tap: Add Blue or Black to your mana pool.</text>
+  <pt></pt>
+  <name>Temple of Deceit</name>
+  <rarity>Rare</rarity>
+  <mana></mana>
+  <number>225</number>
+  <set>Theros</set>
+  <cmc>Temple of Deceit</cmc>
+  <type>Land</type>
+  <img>img_373734.jpg</img>
+</card>

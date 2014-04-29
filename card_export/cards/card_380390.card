@@ -1,0 +1,14 @@
+<card>
+  <text>3BlueBlue Bestow 
+When Crystalline Nautilus becomes the target of a spell or ability, sacrifice it.
+Enchanted creature gets +4/+4 and has "When this creature becomes the target of a spell or ability, sacrifice it."</text>
+  <mana>2 Blue </mana>
+  <set>Journey into Nyx</set>
+  <type>Enchantment Creature  &#8212; Nautilus</type>
+  <pt>4 / 4</pt>
+  <name>Crystalline Nautilus</name>
+  <cmc>3</cmc>
+  <number>34</number>
+  <rarity>Uncommon</rarity>
+  <img>img_380390.jpg</img>
+</card>

@@ -1,0 +1,13 @@
+<card>
+  <cmc>2</cmc>
+  <pt>2 / 1</pt>
+  <rarity>Rare</rarity>
+  <number>44</number>
+  <type>Creature  &#8212; Human Wizard</type>
+  <name>Mindreaver</name>
+  <set>Born of the Gods</set>
+  <mana>Blue Blue </mana>
+  <text>Heroic &#8212; Whenever you cast a spell that targets Mindreaver, exile the top three cards of target player's library.
+BlueBlue, Sacrifice Mindreaver: Counter target spell with the same name as a card exiled with Mindreaver.</text>
+  <img>img_378416.jpg</img>
+</card>

@@ -1,0 +1,13 @@
+<card>
+  <text>Deathbellow Raider attacks each turn if able.
+2Black: Regenerate Deathbellow Raider.</text>
+  <pt>2 / 3</pt>
+  <name>Deathbellow Raider</name>
+  <rarity>Common</rarity>
+  <mana>1 Red </mana>
+  <number>117</number>
+  <set>Theros</set>
+  <cmc>2</cmc>
+  <type>Creature  &#8212; Minotaur Berserker</type>
+  <img>img_373593.jpg</img>
+</card>

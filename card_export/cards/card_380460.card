@@ -1,0 +1,12 @@
+<card>
+  <text>Target creature gets -X/-X until end of turn, where X is the number of cards in your hand.</text>
+  <mana>2 Black </mana>
+  <set>Journey into Nyx</set>
+  <type>Instant</type>
+  <pt></pt>
+  <name>Nightmarish End</name>
+  <cmc>3</cmc>
+  <number>76</number>
+  <rarity>Uncommon</rarity>
+  <img>img_380460.jpg</img>
+</card>

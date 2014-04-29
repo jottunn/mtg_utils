@@ -1,0 +1,14 @@
+<card>
+  <text>Enchant creature
+When Fate Foretold enters the battlefield, draw a card.
+When enchanted creature dies, its controller draws a card.</text>
+  <pt></pt>
+  <name>Fate Foretold</name>
+  <rarity>Common</rarity>
+  <mana>1 Blue </mana>
+  <number>48</number>
+  <set>Theros</set>
+  <cmc>2</cmc>
+  <type>Enchantment  &#8212; Aura</type>
+  <img>img_373686.jpg</img>
+</card>

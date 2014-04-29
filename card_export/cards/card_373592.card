@@ -1,0 +1,12 @@
+<card>
+  <text>Heroic &#8212; Whenever you cast a spell that targets Phalanx Leader, put a +1/+1 counter on each creature you control.</text>
+  <pt>1 / 1</pt>
+  <name>Phalanx Leader</name>
+  <rarity>Uncommon</rarity>
+  <mana>White White </mana>
+  <number>26</number>
+  <set>Theros</set>
+  <cmc>2</cmc>
+  <type>Creature  &#8212; Human Soldier</type>
+  <img>img_373592.jpg</img>
+</card>

@@ -1,0 +1,12 @@
+<card>
+  <text>When Omenspeaker enters the battlefield, scry 2. </text>
+  <pt>1 / 3</pt>
+  <name>Omenspeaker</name>
+  <rarity>Common</rarity>
+  <mana>1 Blue </mana>
+  <number>57</number>
+  <set>Theros</set>
+  <cmc>2</cmc>
+  <type>Creature  &#8212; Human Wizard</type>
+  <img>img_373693.jpg</img>
+</card>

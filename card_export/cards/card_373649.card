@@ -1,0 +1,14 @@
+<card>
+  <text>+1: Put three 1/1 white Soldier creature tokens onto the battlefield.
+-3: Destroy all creatures with power 4 or greater.
+-7: You get an emblem with "Creatures you control get +2/+2 and have flying."</text>
+  <pt>4</pt>
+  <name>Elspeth, Sun's Champion</name>
+  <rarity>Mythic Rare</rarity>
+  <mana>4 White White </mana>
+  <number>9</number>
+  <set>Theros</set>
+  <cmc>6</cmc>
+  <type>Planeswalker  &#8212; Elspeth</type>
+  <img>img_373649.jpg</img>
+</card>

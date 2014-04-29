@@ -1,0 +1,12 @@
+<card>
+  <text>Counter target enchantment, instant, or sorcery spell. Its controller puts a 2/2 blue Bird creature token with flying onto the battlefield.</text>
+  <pt></pt>
+  <name>Swan Song</name>
+  <rarity>Rare</rarity>
+  <mana>Blue </mana>
+  <number>65</number>
+  <set>Theros</set>
+  <cmc>1</cmc>
+  <type>Instant</type>
+  <img>img_373701.jpg</img>
+</card>

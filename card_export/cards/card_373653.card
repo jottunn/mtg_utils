@@ -1,0 +1,14 @@
+<card>
+  <text>Sealock Monster can't attack unless defending player controls an Island.
+5BlueBlue: Monstrosity 3. 
+When Sealock Monster becomes monstrous, target land becomes an Island in addition to its other types.</text>
+  <pt>5 / 5</pt>
+  <name>Sealock Monster</name>
+  <rarity>Uncommon</rarity>
+  <mana>3 Blue Blue </mana>
+  <number>62</number>
+  <set>Theros</set>
+  <cmc>5</cmc>
+  <type>Creature  &#8212; Octopus</type>
+  <img>img_373653.jpg</img>
+</card>

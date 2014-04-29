@@ -1,0 +1,12 @@
+<card>
+  <text>Counter target spell. Scry 1. </text>
+  <pt></pt>
+  <name>Dissolve</name>
+  <rarity>Uncommon</rarity>
+  <mana>1 Blue Blue </mana>
+  <number>47</number>
+  <set>Theros</set>
+  <cmc>3</cmc>
+  <type>Instant</type>
+  <img>img_373557.jpg</img>
+</card>

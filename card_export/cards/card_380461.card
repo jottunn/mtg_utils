@@ -1,0 +1,13 @@
+<card>
+  <text>Enchant creature
+Enchanted creature gets +2/+2 as long as it's an enchantment. Otherwise, it gets -2/-2.</text>
+  <mana>2 Black </mana>
+  <set>Journey into Nyx</set>
+  <type>Enchantment  &#8212; Aura</type>
+  <pt></pt>
+  <name>Nyx Infusion</name>
+  <cmc>3</cmc>
+  <number>77</number>
+  <rarity>Common</rarity>
+  <img>img_380461.jpg</img>
+</card>

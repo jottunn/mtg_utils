@@ -1,0 +1,12 @@
+<card>
+  <text>Heroic &#8212; Whenever you cast a spell that targets Triton Fortune Hunter, draw a card.</text>
+  <pt>2 / 2</pt>
+  <name>Triton Fortune Hunter</name>
+  <rarity>Uncommon</rarity>
+  <mana>2 Blue </mana>
+  <number>69</number>
+  <set>Theros</set>
+  <cmc>3</cmc>
+  <type>Creature  &#8212; Merfolk Soldier</type>
+  <img>img_373531.jpg</img>
+</card>

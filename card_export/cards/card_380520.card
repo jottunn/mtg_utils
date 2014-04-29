@@ -1,0 +1,13 @@
+<card>
+  <text>As an additional cost to cast Tormented Thoughts, sacrifice a creature.
+Target player discards a number of cards equal to the sacrificed creature's power.</text>
+  <mana>2 Black </mana>
+  <set>Journey into Nyx</set>
+  <type>Sorcery</type>
+  <pt></pt>
+  <name>Tormented Thoughts</name>
+  <cmc>3</cmc>
+  <number>86</number>
+  <rarity>Uncommon</rarity>
+  <img>img_380520.jpg</img>
+</card>

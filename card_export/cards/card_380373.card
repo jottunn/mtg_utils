@@ -1,0 +1,13 @@
+<card>
+  <text>Enchant creature
+Enchanted creature gets +1/+3 and has deathtouch. </text>
+  <mana>2 Black </mana>
+  <set>Journey into Nyx</set>
+  <type>Enchantment  &#8212; Aura</type>
+  <pt></pt>
+  <name>Aspect of Gorgon</name>
+  <cmc>3</cmc>
+  <number>60</number>
+  <rarity>Common</rarity>
+  <img>img_380373.jpg</img>
+</card>

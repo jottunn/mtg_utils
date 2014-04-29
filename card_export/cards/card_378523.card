@@ -1,0 +1,14 @@
+<card>
+  <cmc>4</cmc>
+  <pt>7 / 5</pt>
+  <rarity>Mythic Rare</rarity>
+  <number>151</number>
+  <type>Legendary Enchantment Creature  &#8212; God</type>
+  <name>Mogis, God of Slaughter</name>
+  <set>Born of the Gods</set>
+  <mana>2 Black Red </mana>
+  <text>Indestructible
+As long as your devotion to black and red is less than seven, Mogis isn't a creature.
+At the beginning of each opponent's upkeep, Mogis deals 2 damage to that player unless he or she sacrifices a creature.</text>
+  <img>img_378523.jpg</img>
+</card>

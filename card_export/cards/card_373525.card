@@ -1,0 +1,12 @@
+<card>
+  <text>Up to two target creatures each get +2/+2 until end of turn.</text>
+  <pt></pt>
+  <name>Dauntless Onslaught</name>
+  <rarity>Uncommon</rarity>
+  <mana>2 White </mana>
+  <number>6</number>
+  <set>Theros</set>
+  <cmc>3</cmc>
+  <type>Instant</type>
+  <img>img_373525.jpg</img>
+</card>

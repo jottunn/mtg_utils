@@ -1,0 +1,12 @@
+<card>
+  <text>Destroy target artifact or land.</text>
+  <pt></pt>
+  <name>Demolish</name>
+  <rarity>Common</rarity>
+  <mana>3 Red </mana>
+  <number>118</number>
+  <set>Theros</set>
+  <cmc>4</cmc>
+  <type>Sorcery</type>
+  <img>img_373537.jpg</img>
+</card>

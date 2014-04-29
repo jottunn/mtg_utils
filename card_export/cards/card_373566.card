@@ -1,0 +1,13 @@
+<card>
+  <text>Enchant creature
+When enchanted creature dies, return that card to the battlefield under its owner's control. Return Gift of Immortality to the battlefield attached to that creature at the beginning of the next end step.</text>
+  <pt></pt>
+  <name>Gift of Immortality</name>
+  <rarity>Rare</rarity>
+  <mana>2 White </mana>
+  <number>14</number>
+  <set>Theros</set>
+  <cmc>3</cmc>
+  <type>Enchantment  &#8212; Aura</type>
+  <img>img_373566.jpg</img>
+</card>

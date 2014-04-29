@@ -1,0 +1,12 @@
+<card>
+  <text>Whenever another creature dies, tap Fleshmad Steed.</text>
+  <pt>2 / 2</pt>
+  <name>Fleshmad Steed</name>
+  <rarity>Common</rarity>
+  <mana>1 Black </mana>
+  <number>88</number>
+  <set>Theros</set>
+  <cmc>2</cmc>
+  <type>Creature  &#8212; Horse</type>
+  <img>img_373528.jpg</img>
+</card>

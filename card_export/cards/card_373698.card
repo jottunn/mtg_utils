@@ -1,0 +1,13 @@
+<card>
+  <text>Haste
+When Minotaur Skullcleaver enters the battlefield, it gets +2/+0 until end of turn.</text>
+  <pt>2 / 2</pt>
+  <name>Minotaur Skullcleaver</name>
+  <rarity>Common</rarity>
+  <mana>2 Red </mana>
+  <number>130</number>
+  <set>Theros</set>
+  <cmc>3</cmc>
+  <type>Creature  &#8212; Minotaur Berserker</type>
+  <img>img_373698.jpg</img>
+</card>

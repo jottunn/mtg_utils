@@ -1,0 +1,13 @@
+<card>
+  <text>Enchant creature
+Enchanted creature gets -1/-1, and its activated abilities can't be activated.</text>
+  <pt></pt>
+  <name>Viper's Kiss</name>
+  <rarity>Common</rarity>
+  <mana>Black </mana>
+  <number>109</number>
+  <set>Theros</set>
+  <cmc>1</cmc>
+  <type>Enchantment  &#8212; Aura</type>
+  <img>img_373499.jpg</img>
+</card>

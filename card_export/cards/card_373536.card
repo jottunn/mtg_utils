@@ -1,0 +1,14 @@
+<card>
+  <text>Protection from red
+Elemental creatures you control get +1/+1.
+Blue in the mana costs of permanents you control counts toward your devotion to blue.)When Master of Waves enters the battlefield, put a number of 1/0 blue Elemental creature tokens onto the battlefield equal to your devotion to blue. </text>
+  <pt>2 / 1</pt>
+  <name>Master of Waves</name>
+  <rarity>Mythic Rare</rarity>
+  <mana>3 Blue </mana>
+  <number>53</number>
+  <set>Theros</set>
+  <cmc>4</cmc>
+  <type>Creature  &#8212; Merfolk Wizard</type>
+  <img>img_373536.jpg</img>
+</card>

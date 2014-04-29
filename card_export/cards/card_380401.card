@@ -1,0 +1,13 @@
+<card>
+  <text>Flash
+Whenever a player taps a land for mana, that player adds one mana to his or her mana pool of any type that land produced.</text>
+  <mana>3 Green Green </mana>
+  <set>Journey into Nyx</set>
+  <type>Enchantment</type>
+  <pt></pt>
+  <name>Dictate of Karametra</name>
+  <cmc>5</cmc>
+  <number>121</number>
+  <rarity>Rare</rarity>
+  <img>img_380401.jpg</img>
+</card>

@@ -1,0 +1,13 @@
+<card>
+  <text>First strike, vigilance
+Heroic &#8212; Whenever you cast a spell that targets Anax and Cymede, creatures you control get +1/+1 and gain trample until end of turn.</text>
+  <pt>3 / 2</pt>
+  <name>Anax and Cymede</name>
+  <rarity>Rare</rarity>
+  <mana>1 Red White </mana>
+  <number>186</number>
+  <set>Theros</set>
+  <cmc>3</cmc>
+  <type>Legendary Creature  &#8212; Human Soldier</type>
+  <img>img_373530.jpg</img>
+</card>

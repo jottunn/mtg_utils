@@ -1,0 +1,12 @@
+<card>
+  <text>Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. Scry 1. </text>
+  <pt></pt>
+  <name>Portent of Betrayal</name>
+  <rarity>Common</rarity>
+  <mana>3 Red </mana>
+  <number>133</number>
+  <set>Theros</set>
+  <cmc>4</cmc>
+  <type>Sorcery</type>
+  <img>img_373667.jpg</img>
+</card>

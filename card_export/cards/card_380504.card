@@ -1,0 +1,14 @@
+<card>
+  <text>4Green Bestow 
+Spirespine blocks each turn if able.
+Enchanted creature gets +4/+1 and blocks each turn if able.</text>
+  <mana>2 Green </mana>
+  <set>Journey into Nyx</set>
+  <type>Enchantment Creature  &#8212; Beast</type>
+  <pt>4 / 1</pt>
+  <name>Spirespine</name>
+  <cmc>3</cmc>
+  <number>142</number>
+  <rarity>Uncommon</rarity>
+  <img>img_380504.jpg</img>
+</card>

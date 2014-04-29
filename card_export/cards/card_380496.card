@@ -1,0 +1,14 @@
+<card>
+  <text>4White Bestow 
+Sightless Brawler can't attack alone.
+Enchanted creature gets +3/+2 and can't attack alone.</text>
+  <mana>1 White </mana>
+  <set>Journey into Nyx</set>
+  <type>Enchantment Creature  &#8212; Human Warrior</type>
+  <pt>3 / 2</pt>
+  <name>Sightless Brawler</name>
+  <cmc>2</cmc>
+  <number>24</number>
+  <rarity>Uncommon</rarity>
+  <img>img_380496.jpg</img>
+</card>

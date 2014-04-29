@@ -1,0 +1,12 @@
+<card>
+  <text>When Brain Maggot enters the battlefield, target opponent reveals his or her hand and you choose a nonland card from it. Exile that card until Brain Maggot leaves the battlefield.</text>
+  <mana>1 Black </mana>
+  <set>Journey into Nyx</set>
+  <type>Enchantment Creature  &#8212; Insect</type>
+  <pt>1 / 1</pt>
+  <name>Brain Maggot</name>
+  <cmc>2</cmc>
+  <number>62</number>
+  <rarity>Uncommon</rarity>
+  <img>img_380382.jpg</img>
+</card>

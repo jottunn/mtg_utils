@@ -1,0 +1,12 @@
+<card>
+  <text>When Scourge of Fleets enters the battlefield, return each creature your opponents control with toughness X or less to its owner's hand, where X is the number of Islands you control.</text>
+  <mana>5 Blue Blue </mana>
+  <set>Journey into Nyx</set>
+  <type>Creature  &#8212; Kraken</type>
+  <pt>6 / 6</pt>
+  <name>Scourge of Fleets</name>
+  <cmc>7</cmc>
+  <number>51</number>
+  <rarity>Rare</rarity>
+  <img>img_380494.jpg</img>
+</card>

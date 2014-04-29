@@ -1,0 +1,12 @@
+<card>
+  <text>3Red, Sacrifice Font of Ire: Font of Ire deals 5 damage to target player.</text>
+  <mana>1 Red </mana>
+  <set>Journey into Nyx</set>
+  <type>Enchantment</type>
+  <pt></pt>
+  <name>Font of Ire</name>
+  <cmc>2</cmc>
+  <number>97</number>
+  <rarity>Common</rarity>
+  <img>img_380419.jpg</img>
+</card>

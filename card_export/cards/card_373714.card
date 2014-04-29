@@ -1,0 +1,12 @@
+<card>
+  <text>Boulderfall deals 5 damage divided as you choose among any number of target creatures and/or players.</text>
+  <pt></pt>
+  <name>Boulderfall</name>
+  <rarity>Common</rarity>
+  <mana>6 Red Red </mana>
+  <number>115</number>
+  <set>Theros</set>
+  <cmc>8</cmc>
+  <type>Instant</type>
+  <img>img_373714.jpg</img>
+</card>

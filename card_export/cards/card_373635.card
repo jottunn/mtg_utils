@@ -1,0 +1,13 @@
+<card>
+  <text>Untap all creatures and lands you control during each other player's untap step.
+You may cast creature cards as though they had flash.</text>
+  <pt>2 / 3</pt>
+  <name>Prophet of Kruphix</name>
+  <rarity>Rare</rarity>
+  <mana>3 Green Blue </mana>
+  <number>199</number>
+  <set>Theros</set>
+  <cmc>5</cmc>
+  <type>Creature  &#8212; Human Wizard</type>
+  <img>img_373635.jpg</img>
+</card>

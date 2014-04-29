@@ -1,0 +1,14 @@
+<card>
+  <text>Enchant creature
+Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it has three or more +1/+1 counters on it, sacrifice Ordeal of Erebos.
+When you sacrifice Ordeal of Erebos, target player discards two cards.</text>
+  <pt></pt>
+  <name>Ordeal of Erebos</name>
+  <rarity>Uncommon</rarity>
+  <mana>1 Black </mana>
+  <number>99</number>
+  <set>Theros</set>
+  <cmc>2</cmc>
+  <type>Enchantment  &#8212; Aura</type>
+  <img>img_373646.jpg</img>
+</card>

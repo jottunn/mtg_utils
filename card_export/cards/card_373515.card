@@ -1,0 +1,12 @@
+<card>
+  <text>Heroic &#8212; Whenever you cast a spell that targets Setessan Battle Priest, you gain 2 life.</text>
+  <pt>1 / 3</pt>
+  <name>Setessan Battle Priest</name>
+  <rarity>Common</rarity>
+  <mana>1 White </mana>
+  <number>29</number>
+  <set>Theros</set>
+  <cmc>2</cmc>
+  <type>Creature  &#8212; Human Cleric</type>
+  <img>img_373515.jpg</img>
+</card>

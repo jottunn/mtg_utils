@@ -1,0 +1,12 @@
+<card>
+  <text>Heroic &#8212; Whenever you cast a spell that targets Staunch-Hearted Warrior, put two +1/+1 counters on Staunch-Hearted Warrior.</text>
+  <pt>2 / 2</pt>
+  <name>Staunch-Hearted Warrior</name>
+  <rarity>Common</rarity>
+  <mana>3 Green </mana>
+  <number>179</number>
+  <set>Theros</set>
+  <cmc>4</cmc>
+  <type>Creature  &#8212; Human Warrior</type>
+  <img>img_373591.jpg</img>
+</card>

@@ -1,0 +1,12 @@
+<card>
+  <text>2Black: Regenerate Asphodel Wanderer.</text>
+  <pt>1 / 1</pt>
+  <name>Asphodel Wanderer</name>
+  <rarity>Common</rarity>
+  <mana>Black </mana>
+  <number>77</number>
+  <set>Theros</set>
+  <cmc>1</cmc>
+  <type>Creature  &#8212; Skeleton Soldier</type>
+  <img>img_373631.jpg</img>
+</card>

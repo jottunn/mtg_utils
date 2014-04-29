@@ -1,0 +1,14 @@
+<card>
+  <text>Temple of Silence enters the battlefield tapped.
+When Temple of Silence enters the battlefield, scry 1. 
+Tap: Add White or Black to your mana pool.</text>
+  <pt></pt>
+  <name>Temple of Silence</name>
+  <rarity>Rare</rarity>
+  <mana></mana>
+  <number>227</number>
+  <set>Theros</set>
+  <cmc>Temple of Silence</cmc>
+  <type>Land</type>
+  <img>img_373522.jpg</img>
+</card>

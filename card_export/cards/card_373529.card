@@ -1,0 +1,13 @@
+<card>
+  <text>Protection from multicolored
+Whenever an opponent casts a multicolored spell, you gain 1 life.</text>
+  <pt>2 / 1</pt>
+  <name>Soldier of the Pantheon</name>
+  <rarity>Rare</rarity>
+  <mana>White </mana>
+  <number>32</number>
+  <set>Theros</set>
+  <cmc>1</cmc>
+  <type>Creature  &#8212; Human Soldier</type>
+  <img>img_373529.jpg</img>
+</card>

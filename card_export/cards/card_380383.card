@@ -1,0 +1,13 @@
+<card>
+  <text>Enchant creature
+Enchanted creature gets -2/-0 and can't block.</text>
+  <mana>1 Black </mana>
+  <set>Journey into Nyx</set>
+  <type>Enchantment  &#8212; Aura</type>
+  <pt></pt>
+  <name>Cast into Darkness</name>
+  <cmc>2</cmc>
+  <number>63</number>
+  <rarity>Common</rarity>
+  <img>img_380383.jpg</img>
+</card>

@@ -1,0 +1,14 @@
+<card>
+  <text>Flying
+Black in the mana costs of permanents you control counts toward your devotion to black.)When Abhorrent Overlord enters the battlefield, put a number of 1/1 black Harpy creature tokens with flying onto the battlefield equal to your devotion to black. 
+At the beginning of your upkeep, sacrifice a creature.</text>
+  <pt>6 / 6</pt>
+  <name>Abhorrent Overlord</name>
+  <rarity>Rare</rarity>
+  <mana>5 Black Black </mana>
+  <number>75</number>
+  <set>Theros</set>
+  <cmc>7</cmc>
+  <type>Creature  &#8212; Demon</type>
+  <img>img_373661.jpg</img>
+</card>

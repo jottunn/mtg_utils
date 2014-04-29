@@ -1,0 +1,12 @@
+<card>
+  <text>Put target creature on top of its owner's library.</text>
+  <pt></pt>
+  <name>Griptide</name>
+  <rarity>Common</rarity>
+  <mana>3 Blue </mana>
+  <number>50</number>
+  <set>Theros</set>
+  <cmc>4</cmc>
+  <type>Instant</type>
+  <img>img_373519.jpg</img>
+</card>

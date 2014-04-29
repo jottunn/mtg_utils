@@ -1,0 +1,14 @@
+<card>
+  <text>Whenever another creature dies, scry 1. 
+Black: Reaper of the Wilds gains deathtouch until end of turn.
+1Green: Reaper of the Wilds gains hexproof until end of turn.</text>
+  <pt>4 / 5</pt>
+  <name>Reaper of the Wilds</name>
+  <rarity>Rare</rarity>
+  <mana>2 Black Green </mana>
+  <number>201</number>
+  <set>Theros</set>
+  <cmc>4</cmc>
+  <type>Creature  &#8212; Gorgon</type>
+  <img>img_373570.jpg</img>
+</card>

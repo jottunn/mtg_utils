@@ -1,0 +1,13 @@
+<card>
+  <text>Heroes' Bane enters the battlefield with four +1/+1 counters on it.
+2GreenGreen: Put X +1/+1 counters on Heroes' Bane, where X is its power.</text>
+  <mana>3 Green Green </mana>
+  <set>Journey into Nyx</set>
+  <type>Creature  &#8212; Hydra</type>
+  <pt>0 / 0</pt>
+  <name>Heroes' Bane</name>
+  <cmc>5</cmc>
+  <number>126</number>
+  <rarity>Rare</rarity>
+  <img>img_380434.jpg</img>
+</card>

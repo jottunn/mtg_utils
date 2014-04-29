@@ -1,0 +1,20 @@
+{% extends "pack_base.html" %}
+
+{% block content %}
+<div class="container">
+	<br />
+	<label style="float:left; padding-right: 10px;">Choose set: </label>
+	<form action="/pack-viewer/pack/pack-chooser/"  method="GET">
+		<select name="set_id1">
+		{% for set in sets %}
+				<option value = "{{ set.id }}"> {{ set.name }}</option>
+		{% endfor %}		
+		</select>
+		<input class="btn btn-success" type="submit" value="Generate">
+	</form>
+</div>
+{% endblock %}
+
+
+
+

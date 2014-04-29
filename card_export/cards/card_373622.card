@@ -1,0 +1,13 @@
+<card>
+  <text>1, Tap: Scry 1." Equipped creature has "
+1Equip </text>
+  <pt></pt>
+  <name>Witches' Eye</name>
+  <rarity>Uncommon</rarity>
+  <mana>1 </mana>
+  <number>222</number>
+  <set>Theros</set>
+  <cmc>1</cmc>
+  <type>Artifact  &#8212; Equipment</type>
+  <img>img_373622.jpg</img>
+</card>

@@ -1,0 +1,13 @@
+<card>
+  <text>2BlackBlack Bestow 
+Nighthowler and enchanted creature each get +X/+X, where X is the number of creature cards in all graveyards.</text>
+  <pt>0 / 0</pt>
+  <name>Nighthowler</name>
+  <rarity>Rare</rarity>
+  <mana>1 Black Black </mana>
+  <number>98</number>
+  <set>Theros</set>
+  <cmc>3</cmc>
+  <type>Enchantment Creature  &#8212; Horror</type>
+  <img>img_373564.jpg</img>
+</card>

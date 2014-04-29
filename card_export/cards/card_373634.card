@@ -1,0 +1,14 @@
+<card>
+  <text>Enchant creature
+When Dragon Mantle enters the battlefield, draw a card.
+Red: This creature gets +1/+0 until end of turn."Enchanted creature has "</text>
+  <pt></pt>
+  <name>Dragon Mantle</name>
+  <rarity>Common</rarity>
+  <mana>Red </mana>
+  <number>119</number>
+  <set>Theros</set>
+  <cmc>1</cmc>
+  <type>Enchantment  &#8212; Aura</type>
+  <img>img_373634.jpg</img>
+</card>

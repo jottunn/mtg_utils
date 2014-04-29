@@ -1,0 +1,12 @@
+<card>
+  <text>Each player can't cast more than one spell each turn.</text>
+  <mana>2 White </mana>
+  <set>Journey into Nyx</set>
+  <type>Enchantment Creature  &#8212; Spirit</type>
+  <pt>1 / 4</pt>
+  <name>Eidolon of Rhetoric</name>
+  <cmc>3</cmc>
+  <number>10</number>
+  <rarity>Uncommon</rarity>
+  <img>img_380409.jpg</img>
+</card>

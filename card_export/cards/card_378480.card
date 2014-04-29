@@ -1,0 +1,12 @@
+<card>
+  <cmc>2</cmc>
+  <pt>1 / 1</pt>
+  <rarity>Rare</rarity>
+  <number>108</number>
+  <type>Enchantment Creature  &#8212; Satyr</type>
+  <name>Satyr Firedancer</name>
+  <set>Born of the Gods</set>
+  <mana>1 Red </mana>
+  <text>Whenever an instant or sorcery spell you control deals damage to an opponent, Satyr Firedancer deals that much damage to target creature that player controls.</text>
+  <img>img_378480.jpg</img>
+</card>

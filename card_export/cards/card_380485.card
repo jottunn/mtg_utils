@@ -1,0 +1,13 @@
+<card>
+  <text>Flying
+At the beginning of your upkeep, return an enchantment you control to its owner's hand.</text>
+  <mana>2 Blue </mana>
+  <set>Journey into Nyx</set>
+  <type>Enchantment Creature  &#8212; Chimera</type>
+  <pt>3 / 4</pt>
+  <name>Riptide Chimera</name>
+  <cmc>3</cmc>
+  <number>48</number>
+  <rarity>Uncommon</rarity>
+  <img>img_380485.jpg</img>
+</card>

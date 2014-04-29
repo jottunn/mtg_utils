@@ -1,0 +1,12 @@
+<card>
+  <cmc>7</cmc>
+  <pt>6 / 6</pt>
+  <rarity>Uncommon</rarity>
+  <number>42</number>
+  <type>Creature  &#8212; Kraken</type>
+  <name>Kraken of the Straits</name>
+  <set>Born of the Gods</set>
+  <mana>5 Blue Blue </mana>
+  <text>Creatures with power less than the number of Islands you control can't block Kraken of the Straits.</text>
+  <img>img_378414.jpg</img>
+</card>

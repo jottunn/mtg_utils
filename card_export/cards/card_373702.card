@@ -1,0 +1,14 @@
+<card>
+  <text>Flying
+1Blue: Target creature an opponent controls attacks this turn if able.
+1Black, Tap: Attacking creatures get -1/-1 until end of turn.</text>
+  <pt>1 / 2</pt>
+  <name>Shipwreck Singer</name>
+  <rarity>Uncommon</rarity>
+  <mana>Blue Black </mana>
+  <number>203</number>
+  <set>Theros</set>
+  <cmc>2</cmc>
+  <type>Creature  &#8212; Siren</type>
+  <img>img_373702.jpg</img>
+</card>

@@ -1,0 +1,14 @@
+<card>
+  <text>Indestructible
+As long as your devotion to black and green is less than seven, Pharika isn't a creature.
+BlackGreen: Exile target creature card from a graveyard. Its owner puts a 1/1 black and green Snake enchantment creature token with deathtouch onto the battlefield.</text>
+  <mana>1 Black Green </mana>
+  <set>Journey into Nyx</set>
+  <type>Legendary Enchantment Creature  &#8212; God</type>
+  <pt>5 / 5</pt>
+  <name>Pharika, God of Affliction</name>
+  <cmc>3</cmc>
+  <number>154</number>
+  <rarity>Mythic Rare</rarity>
+  <img>img_380469.jpg</img>
+</card>

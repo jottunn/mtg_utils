@@ -1,0 +1,14 @@
+<card>
+  <text>Reach
+At the beginning of your upkeep, put the top two cards of your library into your graveyard.
+1BlackGreen, Exile Nyx Weaver: Return target card from your graveyard to your hand.</text>
+  <mana>1 Black Green </mana>
+  <set>Journey into Nyx</set>
+  <type>Enchantment Creature  &#8212; Spider</type>
+  <pt>2 / 3</pt>
+  <name>Nyx Weaver</name>
+  <cmc>3</cmc>
+  <number>153</number>
+  <rarity>Uncommon</rarity>
+  <img>img_380462.jpg</img>
+</card>

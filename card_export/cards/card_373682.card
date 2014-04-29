@@ -1,0 +1,12 @@
+<card>
+  <text>Counter target blue spell.</text>
+  <pt></pt>
+  <name>Gainsay</name>
+  <rarity>Uncommon</rarity>
+  <mana>1 Blue </mana>
+  <number>49</number>
+  <set>Theros</set>
+  <cmc>2</cmc>
+  <type>Instant</type>
+  <img>img_373682.jpg</img>
+</card>

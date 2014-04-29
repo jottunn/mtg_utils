@@ -1,0 +1,14 @@
+<card>
+  <text>2Red Bestow 
+Mogis's Warhound attacks each turn if able.
+Enchanted creature gets +2/+2 and attacks each turn if able.</text>
+  <mana>1 Red </mana>
+  <set>Journey into Nyx</set>
+  <type>Enchantment Creature  &#8212; Hound</type>
+  <pt>2 / 2</pt>
+  <name>Mogis's Warhound</name>
+  <cmc>2</cmc>
+  <number>104</number>
+  <rarity>Uncommon</rarity>
+  <img>img_380456.jpg</img>
+</card>

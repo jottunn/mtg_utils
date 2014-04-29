@@ -1,0 +1,13 @@
+<card>
+  <text>As an additional cost to cast Rescue from the Underworld, sacrifice a creature.
+Choose target creature card in your graveyard. Return that card and the sacrificed card to the battlefield under your control at the beginning of your next upkeep. Exile Rescue from the Underworld.</text>
+  <pt></pt>
+  <name>Rescue from the Underworld</name>
+  <rarity>Uncommon</rarity>
+  <mana>4 Black </mana>
+  <number>102</number>
+  <set>Theros</set>
+  <cmc>5</cmc>
+  <type>Instant</type>
+  <img>img_373532.jpg</img>
+</card>

@@ -1,0 +1,13 @@
+<card>
+  <cmc>0</cmc>
+  <pt></pt>
+  <rarity>Rare</rarity>
+  <number>157</number>
+  <type>Artifact</type>
+  <name>Astral Cornucopia</name>
+  <set>Born of the Gods</set>
+  <mana>Variable Colorless Variable Colorless Variable Colorless </mana>
+  <text>Astral Cornucopia enters the battlefield with X charge counters on it.
+Tap: Choose a color. Add one mana of that color to your mana pool for each charge counter on Astral Cornucopia.</text>
+  <img>img_378529.jpg</img>
+</card>

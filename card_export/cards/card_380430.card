@@ -1,0 +1,12 @@
+<card>
+  <text>Constellation &#8212; Whenever Grim Guardian or another enchantment enters the battlefield under your control, each opponent loses 1 life.</text>
+  <mana>2 Black </mana>
+  <set>Journey into Nyx</set>
+  <type>Enchantment Creature  &#8212; Zombie</type>
+  <pt>1 / 4</pt>
+  <name>Grim Guardian</name>
+  <cmc>3</cmc>
+  <number>73</number>
+  <rarity>Common</rarity>
+  <img>img_380430.jpg</img>
+</card>

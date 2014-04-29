@@ -1,0 +1,13 @@
+<card>
+  <text>1 less to cast for each creature it targets.Each instant and sorcery spell you cast costs 
+Heroic &#8212; Whenever you cast a spell that targets Battlefield Thaumaturge, Battlefield Thaumaturge gains hexproof until end of turn.</text>
+  <mana>1 Blue </mana>
+  <set>Journey into Nyx</set>
+  <type>Creature  &#8212; Human Wizard</type>
+  <pt>2 / 1</pt>
+  <name>Battlefield Thaumaturge</name>
+  <cmc>2</cmc>
+  <number>31</number>
+  <rarity>Rare</rarity>
+  <img>img_380377.jpg</img>
+</card>

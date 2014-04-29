@@ -1,0 +1,14 @@
+<card>
+  <text>Defender, indestructible
+10: Monstrosity 10. 
+As long as Colossus of Akros is monstrous, it has trample and can attack as though it didn't have defender.</text>
+  <pt>10 / 10</pt>
+  <name>Colossus of Akros</name>
+  <rarity>Rare</rarity>
+  <mana>8 </mana>
+  <number>214</number>
+  <set>Theros</set>
+  <cmc>8</cmc>
+  <type>Artifact Creature  &#8212; Golem</type>
+  <img>img_373555.jpg</img>
+</card>

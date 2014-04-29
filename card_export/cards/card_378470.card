@@ -1,0 +1,13 @@
+<card>
+  <cmc>6</cmc>
+  <pt>5 / 4</pt>
+  <rarity>Rare</rarity>
+  <number>98</number>
+  <type>Creature  &#8212; Dragon</type>
+  <name>Forgestoker Dragon</name>
+  <set>Born of the Gods</set>
+  <mana>4 Red Red </mana>
+  <text>Flying
+1Red: Forgestoker Dragon deals 1 damage to target creature. That creature can't block this combat. Activate this ability only if Forgestoker Dragon is attacking.</text>
+  <img>img_378470.jpg</img>
+</card>

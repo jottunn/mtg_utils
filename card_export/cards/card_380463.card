@@ -1,0 +1,12 @@
+<card>
+  <text>At the beginning of your upkeep, you gain 1 life.</text>
+  <mana>1 White </mana>
+  <set>Journey into Nyx</set>
+  <type>Enchantment Creature  &#8212; Sheep</type>
+  <pt>0 / 5</pt>
+  <name>Nyx-Fleece Ram</name>
+  <cmc>2</cmc>
+  <number>18</number>
+  <rarity>Uncommon</rarity>
+  <img>img_380463.jpg</img>
+</card>

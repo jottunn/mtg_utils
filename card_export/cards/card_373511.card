@@ -1,0 +1,12 @@
+<card>
+  <text>Red in the mana costs of permanents you control counts toward your devotion to red.)When Fanatic of Mogis enters the battlefield, it deals damage to each opponent equal to your devotion to red. </text>
+  <pt>4 / 2</pt>
+  <name>Fanatic of Mogis</name>
+  <rarity>Uncommon</rarity>
+  <mana>3 Red </mana>
+  <number>121</number>
+  <set>Theros</set>
+  <cmc>4</cmc>
+  <type>Creature  &#8212; Minotaur Shaman</type>
+  <img>img_373511.jpg</img>
+</card>

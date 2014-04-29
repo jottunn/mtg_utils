@@ -1,0 +1,13 @@
+<card>
+  <text>Flying
+When Spawn of Thraxes enters the battlefield, it deals damage to target creature or player equal to the number of Mountains you control.</text>
+  <mana>5 Red Red </mana>
+  <set>Journey into Nyx</set>
+  <type>Creature  &#8212; Dragon</type>
+  <pt>5 / 5</pt>
+  <name>Spawn of Thraxes</name>
+  <cmc>7</cmc>
+  <number>112</number>
+  <rarity>Rare</rarity>
+  <img>img_380503.jpg</img>
+</card>

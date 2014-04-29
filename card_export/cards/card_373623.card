@@ -1,0 +1,12 @@
+<card>
+  <text>Prevent all combat damage that would be dealt to players this turn.</text>
+  <pt></pt>
+  <name>Defend the Hearth</name>
+  <rarity>Common</rarity>
+  <mana>1 Green </mana>
+  <number>156</number>
+  <set>Theros</set>
+  <cmc>2</cmc>
+  <type>Instant</type>
+  <img>img_373623.jpg</img>
+</card>

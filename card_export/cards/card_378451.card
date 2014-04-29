@@ -1,0 +1,13 @@
+<card>
+  <cmc>3</cmc>
+  <pt>2 / 2</pt>
+  <rarity>Uncommon</rarity>
+  <number>79</number>
+  <type>Creature  &#8212; Zombie</type>
+  <name>Odunos River Trawler</name>
+  <set>Born of the Gods</set>
+  <mana>2 Black </mana>
+  <text>When Odunos River Trawler enters the battlefield, return target enchantment creature card from your graveyard to your hand.
+White, Sacrifice Odunos River Trawler: Return target enchantment creature card from your graveyard to your hand.</text>
+  <img>img_378451.jpg</img>
+</card>

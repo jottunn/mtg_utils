@@ -1,0 +1,40 @@
+{% extends "pack_base.html" %}
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="{{ LANGUAGE_CODE }}" xml:lang="{{ LANGUAGE_CODE }}" {% if LANGUAGE_BIDI %}dir="rtl"{% endif %}>
+<head>
+    <title>{% block title %}Pack Viewer{% endblock %}</title>
+    {% block extrastyle %}{% endblock %}
+    {% block extrahead %}{% endblock %}
+    {% block blockbots %}<meta name="robots" content="NONE,NOARCHIVE" />{% endblock %}
+</head>
+{% load i18n %}
+{% load staticfiles %}
+	<body>
+	{% block content %}
+		{% for pack_nr, card_img in packs.items %}
+			<h3>Pack {{ pack_nr }}</h3>
+			{% for name, images in card_img.items %}
+				{% if name == "commons"%}
+					<h4>Commons</h4>
+					{% for img in images %}
+				 		<img src="{% static "" %}img/cards/{{ img }}">
+				 	{% endfor %}
+				{% elif name == "uncommons" %}
+					<h4>Unommons</h4>
+					{% for img in images %}
+				 		<img src="{% static "" %}img/cards/{{ img }}">
+				 	{% endfor %} 
+				{% elif name == "rare" %} 
+					<h4>Rare</h4>
+					<img src="{% static "" %}img/cards/{{ images }}">
+				{% elif name == "foil" %}
+					{% if images %}
+						<h4>Foil</h4>
+						<img src="{% static "" %}img/cards/{{ images }}">
+					{% endif %} 					
+				{% endif %}
+			{% endfor %}
+		{% endfor %}			
+	{% endblock %}
+	</body>
+</html>

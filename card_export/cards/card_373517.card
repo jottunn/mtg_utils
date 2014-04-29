@@ -1,0 +1,12 @@
+<card>
+  <text>Return up to three target creatures your opponents control to their owners' hands. Scry 1. </text>
+  <pt></pt>
+  <name>Sea God's Revenge</name>
+  <rarity>Uncommon</rarity>
+  <mana>5 Blue </mana>
+  <number>61</number>
+  <set>Theros</set>
+  <cmc>6</cmc>
+  <type>Sorcery</type>
+  <img>img_373517.jpg</img>
+</card>

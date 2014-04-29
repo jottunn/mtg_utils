@@ -1,0 +1,13 @@
+<card>
+  <text>Enchant creature
+Enchanted creature gets -6/-0.</text>
+  <mana>1 Blue </mana>
+  <set>Journey into Nyx</set>
+  <type>Enchantment  &#8212; Aura</type>
+  <pt></pt>
+  <name>Pin to the Earth</name>
+  <cmc>2</cmc>
+  <number>45</number>
+  <rarity>Common</rarity>
+  <img>img_380473.jpg</img>
+</card>

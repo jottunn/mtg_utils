@@ -1,0 +1,14 @@
+<card>
+  <text>Enchant land
+When Nylea's Presence enters the battlefield, draw a card.
+Enchanted land is every basic land type in addition to its other types.</text>
+  <pt></pt>
+  <name>Nylea's Presence</name>
+  <rarity>Common</rarity>
+  <mana>1 Green </mana>
+  <number>169</number>
+  <set>Theros</set>
+  <cmc>2</cmc>
+  <type>Enchantment  &#8212; Aura</type>
+  <img>img_373580.jpg</img>
+</card>

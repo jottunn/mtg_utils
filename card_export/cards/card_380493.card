@@ -1,0 +1,12 @@
+<card>
+  <text>Heroic &#8212; Whenever you cast a spell that targets Satyr Hoplite, put a +1/+1 counter on Satyr Hoplite.</text>
+  <mana>Red </mana>
+  <set>Journey into Nyx</set>
+  <type>Creature  &#8212; Satyr Soldier</type>
+  <pt>1 / 1</pt>
+  <name>Satyr Hoplite</name>
+  <cmc>1</cmc>
+  <number>110</number>
+  <rarity>Common</rarity>
+  <img>img_380493.jpg</img>
+</card>

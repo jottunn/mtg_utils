@@ -1,0 +1,12 @@
+<card>
+  <text>Green in the mana costs of permanents you control counts toward your devotion to green.)When Reverent Hunter enters the battlefield, put a number of +1/+1 counters on it equal to your devotion to green. </text>
+  <pt>1 / 1</pt>
+  <name>Reverent Hunter</name>
+  <rarity>Rare</rarity>
+  <mana>2 Green </mana>
+  <number>173</number>
+  <set>Theros</set>
+  <cmc>3</cmc>
+  <type>Creature  &#8212; Human Archer</type>
+  <img>img_373601.jpg</img>
+</card>

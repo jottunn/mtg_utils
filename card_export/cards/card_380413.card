@@ -1,0 +1,13 @@
+<card>
+  <text>Deathtouch
+Other Minotaur creatures you control have deathtouch.</text>
+  <mana>2 Black </mana>
+  <set>Journey into Nyx</set>
+  <type>Creature  &#8212; Minotaur Warrior</type>
+  <pt>2 / 3</pt>
+  <name>Felhide Petrifier</name>
+  <cmc>3</cmc>
+  <number>70</number>
+  <rarity>Uncommon</rarity>
+  <img>img_380413.jpg</img>
+</card>

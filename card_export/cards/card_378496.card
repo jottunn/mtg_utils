@@ -1,0 +1,12 @@
+<card>
+  <cmc>5</cmc>
+  <pt></pt>
+  <rarity>Rare</rarity>
+  <number>124</number>
+  <type>Sorcery</type>
+  <name>Hunter's Prowess</name>
+  <set>Born of the Gods</set>
+  <mana>4 Green </mana>
+  <text>Until end of turn, target creature gets +3/+3 and gains trample and "Whenever this creature deals combat damage to a player, draw that many cards."</text>
+  <img>img_378496.jpg</img>
+</card>

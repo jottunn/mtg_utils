@@ -1,0 +1,14 @@
+<card>
+  <text>Enchant creature
+Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it has three or more +1/+1 counters on it, sacrifice Ordeal of Purphoros.
+When you sacrifice Ordeal of Purphoros, it deals 3 damage to target creature or player.</text>
+  <pt></pt>
+  <name>Ordeal of Purphoros</name>
+  <rarity>Uncommon</rarity>
+  <mana>1 Red </mana>
+  <number>131</number>
+  <set>Theros</set>
+  <cmc>2</cmc>
+  <type>Enchantment  &#8212; Aura</type>
+  <img>img_373647.jpg</img>
+</card>

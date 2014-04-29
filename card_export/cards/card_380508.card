@@ -1,0 +1,12 @@
+<card>
+  <text>Starfall deals 3 damage to target creature. If that creature is an enchantment, Starfall deals 3 damage to that creature's controller.</text>
+  <mana>4 Red </mana>
+  <set>Journey into Nyx</set>
+  <type>Instant</type>
+  <pt></pt>
+  <name>Starfall</name>
+  <cmc>5</cmc>
+  <number>114</number>
+  <rarity>Common</rarity>
+  <img>img_380508.jpg</img>
+</card>

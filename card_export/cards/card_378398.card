@@ -1,0 +1,13 @@
+<card>
+  <cmc>7</cmc>
+  <pt>4 / 6</pt>
+  <rarity>Rare</rarity>
+  <number>26</number>
+  <type>Creature  &#8212; Archon</type>
+  <name>Silent Sentinel</name>
+  <set>Born of the Gods</set>
+  <mana>5 White White </mana>
+  <text>Flying
+Whenever Silent Sentinel attacks, you may return target enchantment card from your graveyard to the battlefield.</text>
+  <img>img_378398.jpg</img>
+</card>

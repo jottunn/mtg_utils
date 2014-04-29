@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="{{ LANGUAGE_CODE }}" xml:lang="{{ LANGUAGE_CODE }}" {% if LANGUAGE_BIDI %}dir="rtl"{% endif %}>
+<head>
+    <title>{% block title %}MTG Utils{% endblock %}</title>
+    {% block extrastyle %}{% endblock %}
+    {% block extrahead %}{% endblock %}
+    {% block blockbots %}<meta name="robots" content="NONE,NOARCHIVE" />{% endblock %}
+
+</head>
+{% load i18n %}
+	<body>
+	{% block content %}
+		<h1>MTG Utils</h1>
+		<div class="main_separator">
+		{% block sidebar %}
+				<ul>
+				    <li><a href='/pack-viewer/'>Pack Generator</a></li>
+				    <li><a href='/stats-viewer/'>Stats Viewer</a></li>
+				</ul>
+		{% endblock %}
+		</div>
+	{% endblock %}
+
+	</body>
+</html>

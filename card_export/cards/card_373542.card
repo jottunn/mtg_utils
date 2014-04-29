@@ -1,0 +1,12 @@
+<card>
+  <text>Exile X target creatures. For each creature exiled this way, its controller puts a 2/2 green Boar creature token onto the battlefield.</text>
+  <pt></pt>
+  <name>Curse of the Swine</name>
+  <rarity>Rare</rarity>
+  <mana>Variable Colorless Blue Blue </mana>
+  <number>46</number>
+  <set>Theros</set>
+  <cmc>2</cmc>
+  <type>Sorcery</type>
+  <img>img_373542.jpg</img>
+</card>

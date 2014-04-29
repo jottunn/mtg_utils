@@ -1,0 +1,13 @@
+<card>
+  <text>Deathtouch
+Heroic &#8212; Whenever you cast a spell that targets Agent of the Fates, each opponent sacrifices a creature.</text>
+  <pt>3 / 2</pt>
+  <name>Agent of the Fates</name>
+  <rarity>Rare</rarity>
+  <mana>1 Black Black </mana>
+  <number>76</number>
+  <set>Theros</set>
+  <cmc>3</cmc>
+  <type>Creature  &#8212; Human Assassin</type>
+  <img>img_373543.jpg</img>
+</card>

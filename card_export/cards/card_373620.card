@@ -1,0 +1,12 @@
+<card>
+  <text>3, Sacrifice Burnished Hart: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library.</text>
+  <pt>2 / 2</pt>
+  <name>Burnished Hart</name>
+  <rarity>Uncommon</rarity>
+  <mana>3 </mana>
+  <number>213</number>
+  <set>Theros</set>
+  <cmc>3</cmc>
+  <type>Artifact Creature  &#8212; Elk</type>
+  <img>img_373620.jpg</img>
+</card>

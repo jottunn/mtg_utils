@@ -1,0 +1,13 @@
+<card>
+  <text>Creatures you control have haste.
+2Red, Tap, Sacrifice a land: Put a 3/3 colorless Golem enchantment artifact creature token onto the battlefield.</text>
+  <pt></pt>
+  <name>Hammer of Purphoros</name>
+  <rarity>Rare</rarity>
+  <mana>1 Red Red </mana>
+  <number>124</number>
+  <set>Theros</set>
+  <cmc>3</cmc>
+  <type>Legendary Enchantment Artifact</type>
+  <img>img_373587.jpg</img>
+</card>

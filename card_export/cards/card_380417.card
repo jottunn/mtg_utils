@@ -1,0 +1,12 @@
+<card>
+  <text>1Green, Sacrifice Font of Fertility: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.</text>
+  <mana>Green </mana>
+  <set>Journey into Nyx</set>
+  <type>Enchantment</type>
+  <pt></pt>
+  <name>Font of Fertility</name>
+  <cmc>1</cmc>
+  <number>123</number>
+  <rarity>Common</rarity>
+  <img>img_380417.jpg</img>
+</card>

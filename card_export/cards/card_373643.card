@@ -1,0 +1,13 @@
+<card>
+  <text>Flying
+Whenever you cast an instant or sorcery spell, scry 1. </text>
+  <pt>3 / 4</pt>
+  <name>Prescient Chimera</name>
+  <rarity>Common</rarity>
+  <mana>3 Blue Blue </mana>
+  <number>59</number>
+  <set>Theros</set>
+  <cmc>5</cmc>
+  <type>Creature  &#8212; Chimera</type>
+  <img>img_373643.jpg</img>
+</card>

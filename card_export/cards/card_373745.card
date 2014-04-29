@@ -1,0 +1,14 @@
+<card>
+  <text>5Black Bestow 
+Discard a creature card: Erebos's Emissary gets +2/+2 until end of turn. If Erebos's Emissary is an Aura, enchanted creature gets +2/+2 until end of turn instead.
+Enchanted creature gets +3/+3.</text>
+  <pt>3 / 3</pt>
+  <name>Erebos's Emissary</name>
+  <rarity>Uncommon</rarity>
+  <mana>3 Black </mana>
+  <number>86</number>
+  <set>Theros</set>
+  <cmc>4</cmc>
+  <type>Enchantment Creature  &#8212; Snake</type>
+  <img>img_373745.jpg</img>
+</card>

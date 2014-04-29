@@ -1,0 +1,14 @@
+<card>
+  <text>Underworld Cerberus can't be blocked except by three or more creatures.
+Cards in graveyards can't be the targets of spells or abilities.
+When Underworld Cerberus dies, exile it and each player returns all creature cards from his or her graveyard to his or her hand.</text>
+  <pt>6 / 6</pt>
+  <name>Underworld Cerberus</name>
+  <rarity>Mythic Rare</rarity>
+  <mana>3 Black Red </mana>
+  <number>208</number>
+  <set>Theros</set>
+  <cmc>5</cmc>
+  <type>Creature  &#8212; Hound</type>
+  <img>img_373666.jpg</img>
+</card>

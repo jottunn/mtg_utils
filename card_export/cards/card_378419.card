@@ -1,0 +1,13 @@
+<card>
+  <cmc>4</cmc>
+  <pt></pt>
+  <rarity>Uncommon</rarity>
+  <number>47</number>
+  <type>Enchantment  &#8212; Aura</type>
+  <name>Oracle's Insight</name>
+  <set>Born of the Gods</set>
+  <mana>3 Blue </mana>
+  <text>Enchant creature
+Tap: Scry 1, then draw a card." Enchanted creature has "</text>
+  <img>img_378419.jpg</img>
+</card>

@@ -1,0 +1,12 @@
+<card>
+  <text>Red, Tap: This creature deals 1 damage to target creature or player."Each Human creature you control has "</text>
+  <pt>5 / 6</pt>
+  <name>Titan of Eternal Fire</name>
+  <rarity>Rare</rarity>
+  <mana>5 Red </mana>
+  <number>144</number>
+  <set>Theros</set>
+  <cmc>6</cmc>
+  <type>Creature  &#8212; Giant</type>
+  <img>img_373630.jpg</img>
+</card>

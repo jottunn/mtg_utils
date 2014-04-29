@@ -1,0 +1,12 @@
+<card>
+  <text>When Banishing Light enters the battlefield, exile target nonland permanent an opponent controls until Banishing Light leaves the battlefield. </text>
+  <mana>2 White </mana>
+  <set>Journey into Nyx</set>
+  <type>Enchantment</type>
+  <pt></pt>
+  <name>Banishing Light</name>
+  <cmc>3</cmc>
+  <number>5</number>
+  <rarity>Uncommon</rarity>
+  <img>img_380375.jpg</img>
+</card>

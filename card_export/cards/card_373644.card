@@ -1,0 +1,12 @@
+<card>
+  <text>When Returned Centaur enters the battlefield, target player puts the top four cards of his or her library into his or her graveyard.</text>
+  <pt>2 / 4</pt>
+  <name>Returned Centaur</name>
+  <rarity>Common</rarity>
+  <mana>3 Black </mana>
+  <number>103</number>
+  <set>Theros</set>
+  <cmc>4</cmc>
+  <type>Creature  &#8212; Zombie Centaur</type>
+  <img>img_373644.jpg</img>
+</card>

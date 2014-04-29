@@ -1,0 +1,13 @@
+<card>
+  <text>Flying, trample
+Spellheart Chimera's power is equal to the number of instant and sorcery cards in your graveyard.</text>
+  <pt>* / 3</pt>
+  <name>Spellheart Chimera</name>
+  <rarity>Uncommon</rarity>
+  <mana>1 Blue Red </mana>
+  <number>204</number>
+  <set>Theros</set>
+  <cmc>3</cmc>
+  <type>Creature  &#8212; Chimera</type>
+  <img>img_373554.jpg</img>
+</card>

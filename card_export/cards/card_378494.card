@@ -1,0 +1,13 @@
+<card>
+  <cmc>4</cmc>
+  <pt>2 / 4</pt>
+  <rarity>Uncommon</rarity>
+  <number>122</number>
+  <type>Creature  &#8212; Spider</type>
+  <name>Graverobber Spider</name>
+  <set>Born of the Gods</set>
+  <mana>3 Green </mana>
+  <text>Reach
+3Black: Graverobber Spider gets +X/+X until end of turn, where X is the number of creature cards in your graveyard. Activate this ability only once each turn.</text>
+  <img>img_378494.jpg</img>
+</card>

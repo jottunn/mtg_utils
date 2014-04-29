@@ -1,0 +1,12 @@
+<card>
+  <text>Black in the mana costs of permanents you control counts toward your devotion to black.)When Gray Merchant of Asphodel enters the battlefield, each opponent loses X life, where X is your devotion to black. You gain life equal to the life lost this way. </text>
+  <pt>2 / 4</pt>
+  <name>Gray Merchant of Asphodel</name>
+  <rarity>Common</rarity>
+  <mana>3 Black Black </mana>
+  <number>89</number>
+  <set>Theros</set>
+  <cmc>5</cmc>
+  <type>Creature  &#8212; Zombie</type>
+  <img>img_373645.jpg</img>
+</card>

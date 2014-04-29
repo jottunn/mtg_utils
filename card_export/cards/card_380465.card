@@ -1,0 +1,14 @@
+<card>
+  <text>Enchant creature
+3.Enchanted creature can't attack or block unless its controller pays 
+3 more to activate.Activated abilities of enchanted creature cost </text>
+  <mana>White </mana>
+  <set>Journey into Nyx</set>
+  <type>Enchantment  &#8212; Aura</type>
+  <pt></pt>
+  <name>Oppressive Rays</name>
+  <cmc>1</cmc>
+  <number>19</number>
+  <rarity>Common</rarity>
+  <img>img_380465.jpg</img>
+</card>

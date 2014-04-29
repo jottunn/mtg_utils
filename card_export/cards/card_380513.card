@@ -1,0 +1,14 @@
+<card>
+  <text>When you're dealt combat damage, sacrifice Swarmborn Giant.
+4GreenGreen: Monstrosity 2. 
+As long as Swarmborn Giant is monstrous, it has reach.</text>
+  <mana>2 Green Green </mana>
+  <set>Journey into Nyx</set>
+  <type>Creature  &#8212; Giant</type>
+  <pt>6 / 6</pt>
+  <name>Swarmborn Giant</name>
+  <cmc>4</cmc>
+  <number>144</number>
+  <rarity>Uncommon</rarity>
+  <img>img_380513.jpg</img>
+</card>

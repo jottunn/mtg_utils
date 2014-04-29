@@ -1,0 +1,13 @@
+<card>
+  <cmc>3</cmc>
+  <pt>0 / 5</pt>
+  <rarity>Uncommon</rarity>
+  <number>62</number>
+  <type>Creature  &#8212; Zombie Treefolk</type>
+  <name>Black Oak of Odunos</name>
+  <set>Born of the Gods</set>
+  <mana>2 Black </mana>
+  <text>Defender
+Black, Tap another untapped creature you control: Black Oak of Odunos gets +1/+1 until end of turn.</text>
+  <img>img_378434.jpg</img>
+</card>

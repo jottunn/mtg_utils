@@ -1,0 +1,13 @@
+<card>
+  <text>Tormented Hero enters the battlefield tapped.
+Heroic &#8212; Whenever you cast a spell that targets Tormented Hero, each opponent loses 1 life. You gain life equal to the life lost this way.</text>
+  <pt>2 / 1</pt>
+  <name>Tormented Hero</name>
+  <rarity>Uncommon</rarity>
+  <mana>Black </mana>
+  <number>108</number>
+  <set>Theros</set>
+  <cmc>1</cmc>
+  <type>Creature  &#8212; Human Warrior</type>
+  <img>img_373541.jpg</img>
+</card>

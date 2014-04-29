@@ -1,0 +1,12 @@
+<card>
+  <text>Destroy target Mountain. Peak Eruption deals 3 damage to that land's controller.</text>
+  <pt></pt>
+  <name>Peak Eruption</name>
+  <rarity>Uncommon</rarity>
+  <mana>2 Red </mana>
+  <number>132</number>
+  <set>Theros</set>
+  <cmc>3</cmc>
+  <type>Sorcery</type>
+  <img>img_373507.jpg</img>
+</card>

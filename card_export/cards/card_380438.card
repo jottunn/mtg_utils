@@ -1,0 +1,13 @@
+<card>
+  <text>Variable ColorlessVariable ColorlessGreen: Monstrosity X. 
+When Hydra Broodmaster becomes monstrous, put X X/X green Hydra creature tokens onto the battlefield.</text>
+  <mana>4 Green Green </mana>
+  <set>Journey into Nyx</set>
+  <type>Creature  &#8212; Hydra</type>
+  <pt>7 / 7</pt>
+  <name>Hydra Broodmaster</name>
+  <cmc>6</cmc>
+  <number>128</number>
+  <rarity>Rare</rarity>
+  <img>img_380438.jpg</img>
+</card>

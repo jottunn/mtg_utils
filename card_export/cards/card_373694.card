@@ -1,0 +1,13 @@
+<card>
+  <text>1 less to cast for each creature card in your graveyard.Nemesis of Mortals costs 
+7GreenGreen: Monstrosity 5. This ability costs 1 less to activate for each creature card in your graveyard. </text>
+  <pt>5 / 5</pt>
+  <name>Nemesis of Mortals</name>
+  <rarity>Uncommon</rarity>
+  <mana>4 Green Green </mana>
+  <number>163</number>
+  <set>Theros</set>
+  <cmc>6</cmc>
+  <type>Creature  &#8212; Snake</type>
+  <img>img_373694.jpg</img>
+</card>

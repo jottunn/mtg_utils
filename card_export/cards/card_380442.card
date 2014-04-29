@@ -1,0 +1,14 @@
+<card>
+  <text>Indestructible
+As long as your devotion to blue and red is less than seven, Keranos isn't a creature.
+Reveal the first card you draw on each of your turns. Whenever you reveal a land card this way, draw a card. Whenever you reveal a nonland card this way, Keranos deals 3 damage to target creature or player.</text>
+  <mana>3 Blue Red </mana>
+  <set>Journey into Nyx</set>
+  <type>Legendary Enchantment Creature  &#8212; God</type>
+  <pt>6 / 5</pt>
+  <name>Keranos, God of Storms</name>
+  <cmc>5</cmc>
+  <number>151</number>
+  <rarity>Mythic Rare</rarity>
+  <img>img_380442.jpg</img>
+</card>

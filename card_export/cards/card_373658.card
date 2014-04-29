@@ -1,0 +1,13 @@
+<card>
+  <text>Defender
+When Mnemonic Wall enters the battlefield, you may return target instant or sorcery card from your graveyard to your hand.</text>
+  <pt>0 / 4</pt>
+  <name>Mnemonic Wall</name>
+  <rarity>Common</rarity>
+  <mana>4 Blue </mana>
+  <number>55</number>
+  <set>Theros</set>
+  <cmc>5</cmc>
+  <type>Creature  &#8212; Wall</type>
+  <img>img_373658.jpg</img>
+</card>

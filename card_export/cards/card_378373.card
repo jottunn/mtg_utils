@@ -1,0 +1,12 @@
+<card>
+  <cmc>2</cmc>
+  <pt></pt>
+  <rarity>Uncommon</rarity>
+  <number>1</number>
+  <type>Instant</type>
+  <name>Acolyte's Reward</name>
+  <set>Born of the Gods</set>
+  <mana>1 White </mana>
+  <text>White in the mana costs of permanents you control counts toward your devotion to white.)Prevent the next X damage that would be dealt to target creature this turn, where X is your devotion to white. If damage is prevented this way, Acolyte's Reward deals that much damage to target creature or player. </text>
+  <img>img_378373.jpg</img>
+</card>

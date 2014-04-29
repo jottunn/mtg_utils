@@ -1,0 +1,12 @@
+<card>
+  <cmc>2</cmc>
+  <pt></pt>
+  <rarity>Uncommon</rarity>
+  <number>111</number>
+  <type>Instant</type>
+  <name>Searing Blood</name>
+  <set>Born of the Gods</set>
+  <mana>Red Red </mana>
+  <text>Searing Blood deals 2 damage to target creature. When that creature dies this turn, Searing Blood deals 3 damage to the creature's controller.</text>
+  <img>img_378483.jpg</img>
+</card>

@@ -1,0 +1,12 @@
+<card>
+  <text>Target creature you control gains protection from the color of your choice until end of turn. Scry 1. </text>
+  <pt></pt>
+  <name>Gods Willing</name>
+  <rarity>Common</rarity>
+  <mana>White </mana>
+  <number>16</number>
+  <set>Theros</set>
+  <cmc>1</cmc>
+  <type>Instant</type>
+  <img>img_373516.jpg</img>
+</card>

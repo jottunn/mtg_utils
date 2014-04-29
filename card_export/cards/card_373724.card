@@ -1,0 +1,12 @@
+<card>
+  <text>Tap: Tap target creature with power 3 or less.</text>
+  <pt>1 / 2</pt>
+  <name>Ephara's Warden</name>
+  <rarity>Common</rarity>
+  <mana>3 White </mana>
+  <number>10</number>
+  <set>Theros</set>
+  <cmc>4</cmc>
+  <type>Creature  &#8212; Human Cleric</type>
+  <img>img_373724.jpg</img>
+</card>

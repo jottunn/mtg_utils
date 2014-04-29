@@ -1,0 +1,12 @@
+<card>
+  <text>Counter target spell. Its controller puts the top four cards of his or her library into his or her graveyard.</text>
+  <mana>2 Blue Blue </mana>
+  <set>Journey into Nyx</set>
+  <type>Instant</type>
+  <pt></pt>
+  <name>Countermand</name>
+  <cmc>4</cmc>
+  <number>33</number>
+  <rarity>Common</rarity>
+  <img>img_380388.jpg</img>
+</card>

@@ -1,0 +1,14 @@
+<card>
+  <cmc>4</cmc>
+  <pt>3 / 1</pt>
+  <rarity>Rare</rarity>
+  <number>103</number>
+  <type>Creature  &#8212; Minotaur Shaman</type>
+  <name>Oracle of Bones</name>
+  <set>Born of the Gods</set>
+  <mana>2 Red Red </mana>
+  <text>Haste
+Tribute 2 
+When Oracle of Bones enters the battlefield, if tribute wasn't paid, you may cast an instant or sorcery card from your hand without paying its mana cost.</text>
+  <img>img_378475.jpg</img>
+</card>

@@ -1,0 +1,12 @@
+<card>
+  <text>Green in the mana costs of permanents you control counts toward your devotion to green.)When Nylea's Disciple enters the battlefield, you gain life equal to your devotion to green. </text>
+  <pt>3 / 3</pt>
+  <name>Nylea's Disciple</name>
+  <rarity>Common</rarity>
+  <mana>2 Green Green </mana>
+  <number>167</number>
+  <set>Theros</set>
+  <cmc>4</cmc>
+  <type>Creature  &#8212; Centaur Archer</type>
+  <img>img_373498.jpg</img>
+</card>

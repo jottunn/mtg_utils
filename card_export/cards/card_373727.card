@@ -1,0 +1,14 @@
+<card>
+  <text>Mistcutter Hydra can't be countered.
+Haste, protection from blue
+Mistcutter Hydra enters the battlefield with X +1/+1 counters on it.</text>
+  <pt>0 / 0</pt>
+  <name>Mistcutter Hydra</name>
+  <rarity>Rare</rarity>
+  <mana>Variable Colorless Green </mana>
+  <number>162</number>
+  <set>Theros</set>
+  <cmc>1</cmc>
+  <type>Creature  &#8212; Hydra</type>
+  <img>img_373727.jpg</img>
+</card>

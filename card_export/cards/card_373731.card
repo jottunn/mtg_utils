@@ -1,0 +1,13 @@
+<card>
+  <text>2Green: Loathsome Catoblepas must be blocked this turn if able.
+When Loathsome Catoblepas dies, target creature an opponent controls gets -3/-3 until end of turn.</text>
+  <pt>3 / 3</pt>
+  <name>Loathsome Catoblepas</name>
+  <rarity>Common</rarity>
+  <mana>5 Black </mana>
+  <number>95</number>
+  <set>Theros</set>
+  <cmc>6</cmc>
+  <type>Creature  &#8212; Beast</type>
+  <img>img_373731.jpg</img>
+</card>

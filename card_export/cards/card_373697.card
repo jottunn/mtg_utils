@@ -1,0 +1,13 @@
+<card>
+  <text>Flying, vigilance
+WhiteBlack, Pay 3 life: Regenerate Sentry of the Underworld.</text>
+  <pt>3 / 3</pt>
+  <name>Sentry of the Underworld</name>
+  <rarity>Uncommon</rarity>
+  <mana>3 White Black </mana>
+  <number>202</number>
+  <set>Theros</set>
+  <cmc>5</cmc>
+  <type>Creature  &#8212; Griffin Skeleton</type>
+  <img>img_373697.jpg</img>
+</card>

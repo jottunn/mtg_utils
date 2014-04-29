@@ -1,0 +1,12 @@
+<card>
+  <text>Pharika's Cure deals 2 damage to target creature and you gain 2 life.</text>
+  <pt></pt>
+  <name>Pharika's Cure</name>
+  <rarity>Common</rarity>
+  <mana>Black Black </mana>
+  <number>100</number>
+  <set>Theros</set>
+  <cmc>2</cmc>
+  <type>Instant</type>
+  <img>img_373722.jpg</img>
+</card>

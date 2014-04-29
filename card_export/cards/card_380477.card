@@ -1,0 +1,12 @@
+<card>
+  <text>When Quarry Colossus enters the battlefield, put target creature into its owner's library just beneath the top X cards of that library, where X is the number of Plains you control.</text>
+  <mana>5 White White </mana>
+  <set>Journey into Nyx</set>
+  <type>Creature  &#8212; Giant</type>
+  <pt>5 / 6</pt>
+  <name>Quarry Colossus</name>
+  <cmc>7</cmc>
+  <number>22</number>
+  <rarity>Uncommon</rarity>
+  <img>img_380477.jpg</img>
+</card>

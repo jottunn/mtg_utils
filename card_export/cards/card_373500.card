@@ -1,0 +1,14 @@
+<card>
+  <text>+2: Exile the top three cards of target opponent's library.
+-X: Put a creature card with converted mana cost X exiled with Ashiok, Nightmare Weaver onto the battlefield under your control. That creature is a Nightmare in addition to its other types.
+-10: Exile all cards from all opponents' hands and graveyards.</text>
+  <pt>3</pt>
+  <name>Ashiok, Nightmare Weaver</name>
+  <rarity>Mythic Rare</rarity>
+  <mana>1 Blue Black </mana>
+  <number>188</number>
+  <set>Theros</set>
+  <cmc>3</cmc>
+  <type>Planeswalker  &#8212; Ashiok</type>
+  <img>img_373500.jpg</img>
+</card>

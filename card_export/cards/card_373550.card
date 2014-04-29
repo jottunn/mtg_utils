@@ -1,0 +1,14 @@
+<card>
+  <text>Defender
+When Akroan Horse enters the battlefield, an opponent gains control of it.
+At the beginning of your upkeep, each opponent puts a 1/1 white Soldier creature token onto the battlefield.</text>
+  <pt>0 / 4</pt>
+  <name>Akroan Horse</name>
+  <rarity>Rare</rarity>
+  <mana>4 </mana>
+  <number>210</number>
+  <set>Theros</set>
+  <cmc>4</cmc>
+  <type>Artifact Creature  &#8212; Horse</type>
+  <img>img_373550.jpg</img>
+</card>

@@ -1,0 +1,14 @@
+<card>
+  <text>+1: Distribute three +1/+1 counters among one, two, or three target creatures you control.
++1: Look at the top four cards of your library. You may reveal an Aura, creature, or planeswalker card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+-8: You gain 100 life.</text>
+  <mana>3 Green White </mana>
+  <set>Journey into Nyx</set>
+  <type>Planeswalker  &#8212; Ajani</type>
+  <pt>4</pt>
+  <name>Ajani, Mentor of Heroes</name>
+  <cmc>5</cmc>
+  <number>145</number>
+  <rarity>Mythic Rare</rarity>
+  <img>img_380367.jpg</img>
+</card>

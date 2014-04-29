@@ -1,0 +1,13 @@
+<card>
+  <text>Flying
+When Horizon Scholar enters the battlefield, scry 2. </text>
+  <pt>4 / 4</pt>
+  <name>Horizon Scholar</name>
+  <rarity>Uncommon</rarity>
+  <mana>5 Blue </mana>
+  <number>51</number>
+  <set>Theros</set>
+  <cmc>6</cmc>
+  <type>Creature  &#8212; Sphinx</type>
+  <img>img_373628.jpg</img>
+</card>

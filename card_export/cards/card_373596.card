@@ -1,0 +1,12 @@
+<card>
+  <text>Heroic &#8212; Whenever you cast a spell that targets Favored Hoplite, put a +1/+1 counter on Favored Hoplite and prevent all damage that would be dealt to it this turn.</text>
+  <pt>1 / 2</pt>
+  <name>Favored Hoplite</name>
+  <rarity>Uncommon</rarity>
+  <mana>White </mana>
+  <number>13</number>
+  <set>Theros</set>
+  <cmc>1</cmc>
+  <type>Creature  &#8212; Human Soldier</type>
+  <img>img_373596.jpg</img>
+</card>

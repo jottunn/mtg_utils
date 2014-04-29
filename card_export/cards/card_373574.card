@@ -1,0 +1,13 @@
+<card>
+  <text>Flying
+2GreenGreen: Setessan Griffin gets +2/+2 until end of turn. Activate this ability only once each turn.</text>
+  <pt>3 / 2</pt>
+  <name>Setessan Griffin</name>
+  <rarity>Common</rarity>
+  <mana>4 White </mana>
+  <number>30</number>
+  <set>Theros</set>
+  <cmc>5</cmc>
+  <type>Creature  &#8212; Griffin</type>
+  <img>img_373574.jpg</img>
+</card>

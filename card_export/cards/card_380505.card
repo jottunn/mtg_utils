@@ -1,0 +1,12 @@
+<card>
+  <text>Spite of Mogis deals damage to target creature equal to the number of instant and sorcery cards in your graveyard. Scry 1. </text>
+  <mana>Red </mana>
+  <set>Journey into Nyx</set>
+  <type>Sorcery</type>
+  <pt></pt>
+  <name>Spite of Mogis</name>
+  <cmc>1</cmc>
+  <number>113</number>
+  <rarity>Uncommon</rarity>
+  <img>img_380505.jpg</img>
+</card>

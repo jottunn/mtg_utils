@@ -1,0 +1,14 @@
+<card>
+  <cmc>7</cmc>
+  <pt>6 / 4</pt>
+  <rarity>Rare</rarity>
+  <number>66</number>
+  <type>Creature  &#8212; Demon</type>
+  <name>Eater of Hope</name>
+  <set>Born of the Gods</set>
+  <mana>5 Black Black </mana>
+  <text>Flying
+Black, Sacrifice another creature: Regenerate Eater of Hope.
+2Black, Sacrifice two other creatures: Destroy target creature.</text>
+  <img>img_378438.jpg</img>
+</card>

@@ -1,0 +1,12 @@
+<card>
+  <cmc>4</cmc>
+  <pt></pt>
+  <rarity>Rare</rarity>
+  <number>73</number>
+  <type>Sorcery</type>
+  <name>Gild</name>
+  <set>Born of the Gods</set>
+  <mana>3 Black </mana>
+  <text>Exile target creature. Put a colorless artifact token named Gold onto the battlefield. It has "Sacrifice this artifact: Add one mana of any color to your mana pool."</text>
+  <img>img_378445.jpg</img>
+</card>

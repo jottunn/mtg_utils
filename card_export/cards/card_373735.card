@@ -1,0 +1,14 @@
+<card>
+  <text>5Blue Bestow 
+Whenever Thassa's Emissary or enchanted creature deals combat damage to a player, draw a card.
+Enchanted creature gets +3/+3.</text>
+  <pt>3 / 3</pt>
+  <name>Thassa's Emissary</name>
+  <rarity>Uncommon</rarity>
+  <mana>3 Blue </mana>
+  <number>68</number>
+  <set>Theros</set>
+  <cmc>4</cmc>
+  <type>Enchantment Creature  &#8212; Crab</type>
+  <img>img_373735.jpg</img>
+</card>

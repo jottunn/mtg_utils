@@ -1,0 +1,14 @@
+<card>
+  <cmc>2</cmc>
+  <pt>1 / 1</pt>
+  <rarity>Uncommon</rarity>
+  <number>40</number>
+  <type>Enchantment Creature  &#8212; Spirit</type>
+  <name>Flitterstep Eidolon</name>
+  <set>Born of the Gods</set>
+  <mana>1 Blue </mana>
+  <text>5Blue Bestow 
+Flitterstep Eidolon can't be blocked.
+Enchanted creature gets +1/+1 and can't be blocked.</text>
+  <img>img_378412.jpg</img>
+</card>

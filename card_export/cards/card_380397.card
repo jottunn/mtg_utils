@@ -1,0 +1,13 @@
+<card>
+  <text>You may choose not to untap Deserter's Quarters during your untap step.
+6, Tap: Tap target creature. It doesn't untap during its controller's untap step for as long as Deserter's Quarters remains tapped.</text>
+  <mana>2 </mana>
+  <set>Journey into Nyx</set>
+  <type>Artifact</type>
+  <pt></pt>
+  <name>Deserter's Quarters</name>
+  <cmc>2</cmc>
+  <number>160</number>
+  <rarity>Uncommon</rarity>
+  <img>img_380397.jpg</img>
+</card>

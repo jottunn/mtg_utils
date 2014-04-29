@@ -1,0 +1,15 @@
+<card>
+  <text>Indestructible
+Blue in the mana costs of permanents you control counts toward your devotion to blue.)As long as your devotion to blue is less than five, Thassa isn't a creature. 
+At the beginning of your upkeep, scry 1.
+1Blue: Target creature you control can't be blocked this turn.</text>
+  <pt>5 / 5</pt>
+  <name>Thassa, God of the Sea</name>
+  <rarity>Mythic Rare</rarity>
+  <mana>2 Blue </mana>
+  <number>66</number>
+  <set>Theros</set>
+  <cmc>3</cmc>
+  <type>Legendary Enchantment Creature  &#8212; God</type>
+  <img>img_373535.jpg</img>
+</card>

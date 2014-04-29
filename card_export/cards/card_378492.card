@@ -1,0 +1,12 @@
+<card>
+  <cmc>3</cmc>
+  <pt></pt>
+  <rarity>Common</rarity>
+  <number>120</number>
+  <type>Sorcery</type>
+  <name>Culling Mark</name>
+  <set>Born of the Gods</set>
+  <mana>2 Green </mana>
+  <text>Target creature blocks this turn if able.</text>
+  <img>img_378492.jpg</img>
+</card>

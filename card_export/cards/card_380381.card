@@ -1,0 +1,13 @@
+<card>
+  <text>Heroic &#8212; Whenever you cast a spell that targets Bloodcrazed Hoplite, put a +1/+1 counter on it.
+Whenever a +1/+1 counter is placed on Bloodcrazed Hoplite, remove a +1/+1 counter from target creature an opponent controls.</text>
+  <mana>1 Black </mana>
+  <set>Journey into Nyx</set>
+  <type>Creature  &#8212; Human Soldier</type>
+  <pt>2 / 1</pt>
+  <name>Bloodcrazed Hoplite</name>
+  <cmc>2</cmc>
+  <number>61</number>
+  <rarity>Common</rarity>
+  <img>img_380381.jpg</img>
+</card>

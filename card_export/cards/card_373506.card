@@ -1,0 +1,12 @@
+<card>
+  <text>Destroy target artifact or enchantment. Scry 2. </text>
+  <pt></pt>
+  <name>Artisan's Sorrow</name>
+  <rarity>Uncommon</rarity>
+  <mana>3 Green </mana>
+  <number>151</number>
+  <set>Theros</set>
+  <cmc>4</cmc>
+  <type>Instant</type>
+  <img>img_373506.jpg</img>
+</card>

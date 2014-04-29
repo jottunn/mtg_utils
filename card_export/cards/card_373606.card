@@ -1,0 +1,13 @@
+<card>
+  <text>Double strike
+Heroic &#8212; Whenever you cast a spell that targets Fabled Hero, put a +1/+1 counter on Fabled Hero.</text>
+  <pt>2 / 2</pt>
+  <name>Fabled Hero</name>
+  <rarity>Rare</rarity>
+  <mana>1 White White </mana>
+  <number>12</number>
+  <set>Theros</set>
+  <cmc>3</cmc>
+  <type>Creature  &#8212; Human Soldier</type>
+  <img>img_373606.jpg</img>
+</card>

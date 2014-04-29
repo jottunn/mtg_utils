@@ -1,0 +1,12 @@
+<card>
+  <text>Reveal the top six cards of your library. Put up to three enchantment cards from among them into your hand and the rest of the revealed cards into your graveyard.</text>
+  <mana>2 Green </mana>
+  <set>Journey into Nyx</set>
+  <type>Sorcery</type>
+  <pt></pt>
+  <name>Kruphix's Insight</name>
+  <cmc>3</cmc>
+  <number>129</number>
+  <rarity>Common</rarity>
+  <img>img_380447.jpg</img>
+</card>

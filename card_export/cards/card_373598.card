@@ -1,0 +1,12 @@
+<card>
+  <text>Destroy target creature. Its controller loses 2 life.</text>
+  <pt></pt>
+  <name>Sip of Hemlock</name>
+  <rarity>Common</rarity>
+  <mana>4 Black Black </mana>
+  <number>106</number>
+  <set>Theros</set>
+  <cmc>6</cmc>
+  <type>Sorcery</type>
+  <img>img_373598.jpg</img>
+</card>

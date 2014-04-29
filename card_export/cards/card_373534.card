@@ -1,0 +1,12 @@
+<card>
+  <text>Heroic &#8212; Whenever you cast a spell that targets Wavecrash Triton, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step.</text>
+  <pt>1 / 4</pt>
+  <name>Wavecrash Triton</name>
+  <rarity>Common</rarity>
+  <mana>2 Blue </mana>
+  <number>74</number>
+  <set>Theros</set>
+  <cmc>3</cmc>
+  <type>Creature  &#8212; Merfolk Wizard</type>
+  <img>img_373534.jpg</img>
+</card>

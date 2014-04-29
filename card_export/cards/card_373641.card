@@ -1,0 +1,12 @@
+<card>
+  <text>White in the mana costs of permanents you control counts toward your devotion to white.)When Evangel of Heliod enters the battlefield, put a number of 1/1 white Soldier creature tokens onto the battlefield equal to your devotion to white. </text>
+  <pt>1 / 3</pt>
+  <name>Evangel of Heliod</name>
+  <rarity>Uncommon</rarity>
+  <mana>4 White White </mana>
+  <number>11</number>
+  <set>Theros</set>
+  <cmc>6</cmc>
+  <type>Creature  &#8212; Human Cleric</type>
+  <img>img_373641.jpg</img>
+</card>

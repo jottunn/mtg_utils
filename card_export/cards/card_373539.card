@@ -1,0 +1,12 @@
+<card>
+  <text>Reveal the top five cards of your library and separate them into two piles. An opponent chooses one of those piles. Put that pile into your hand and the other into your graveyard.</text>
+  <pt></pt>
+  <name>Steam Augury</name>
+  <rarity>Rare</rarity>
+  <mana>2 Blue Red </mana>
+  <number>205</number>
+  <set>Theros</set>
+  <cmc>4</cmc>
+  <type>Instant</type>
+  <img>img_373539.jpg</img>
+</card>

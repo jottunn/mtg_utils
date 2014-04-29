@@ -1,0 +1,12 @@
+<card>
+  <text>Heroic &#8212; Whenever you cast a spell that targets Leonin Iconoclast, destroy target enchantment creature an opponent controls.</text>
+  <mana>3 White </mana>
+  <set>Journey into Nyx</set>
+  <type>Creature  &#8212; Cat Monk</type>
+  <pt>3 / 2</pt>
+  <name>Leonin Iconoclast</name>
+  <cmc>4</cmc>
+  <number>16</number>
+  <rarity>Uncommon</rarity>
+  <img>img_380450.jpg</img>
+</card>

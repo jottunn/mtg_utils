@@ -1,0 +1,13 @@
+<card>
+  <text>Defender
+1Blue: Returned Phalanx can attack this turn as though it didn't have defender.</text>
+  <pt>3 / 3</pt>
+  <name>Returned Phalanx</name>
+  <rarity>Common</rarity>
+  <mana>1 Black </mana>
+  <number>104</number>
+  <set>Theros</set>
+  <cmc>2</cmc>
+  <type>Creature  &#8212; Zombie Soldier</type>
+  <img>img_373508.jpg</img>
+</card>

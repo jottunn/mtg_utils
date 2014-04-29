@@ -1,0 +1,12 @@
+<card>
+  <text>Destroy target black creature.</text>
+  <pt></pt>
+  <name>Dark Betrayal</name>
+  <rarity>Uncommon</rarity>
+  <mana>Black </mana>
+  <number>83</number>
+  <set>Theros</set>
+  <cmc>1</cmc>
+  <type>Instant</type>
+  <img>img_373504.jpg</img>
+</card>

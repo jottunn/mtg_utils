@@ -1,0 +1,12 @@
+<card>
+  <text>Heroic &#8212; Whenever you cast a spell that targets Artisan of Forms, you may have Artisan of Forms become a copy of target creature and gain this ability.</text>
+  <pt>1 / 1</pt>
+  <name>Artisan of Forms</name>
+  <rarity>Rare</rarity>
+  <mana>1 Blue </mana>
+  <number>40</number>
+  <set>Theros</set>
+  <cmc>2</cmc>
+  <type>Creature  &#8212; Human Wizard</type>
+  <img>img_373742.jpg</img>
+</card>

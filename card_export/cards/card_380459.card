@@ -1,0 +1,12 @@
+<card>
+  <text>When Nessian Game Warden enters the battlefield, look at the top X cards of your library, where X is the number of Forests you control. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in any order.</text>
+  <mana>3 Green Green </mana>
+  <set>Journey into Nyx</set>
+  <type>Creature  &#8212; Beast</type>
+  <pt>4 / 5</pt>
+  <name>Nessian Game Warden</name>
+  <cmc>5</cmc>
+  <number>132</number>
+  <rarity>Uncommon</rarity>
+  <img>img_380459.jpg</img>
+</card>

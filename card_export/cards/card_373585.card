@@ -1,0 +1,12 @@
+<card>
+  <text>Heroic &#8212; Whenever you cast a spell that targets Arena Athlete, target creature an opponent controls can't block this turn.</text>
+  <pt>2 / 1</pt>
+  <name>Arena Athlete</name>
+  <rarity>Uncommon</rarity>
+  <mana>1 Red </mana>
+  <number>113</number>
+  <set>Theros</set>
+  <cmc>2</cmc>
+  <type>Creature  &#8212; Human</type>
+  <img>img_373585.jpg</img>
+</card>

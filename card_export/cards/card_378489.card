@@ -1,0 +1,12 @@
+<card>
+  <cmc>1</cmc>
+  <pt></pt>
+  <rarity>Common</rarity>
+  <number>117</number>
+  <type>Instant</type>
+  <name>Aspect of Hydra</name>
+  <set>Born of the Gods</set>
+  <mana>Green </mana>
+  <text>Green in the mana costs of permanents you control counts toward your devotion to green.)Target creature gets +X/+X until end of turn, where X is your devotion to green. </text>
+  <img>img_378489.jpg</img>
+</card>

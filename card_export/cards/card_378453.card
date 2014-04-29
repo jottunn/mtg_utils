@@ -1,0 +1,12 @@
+<card>
+  <cmc>5</cmc>
+  <pt></pt>
+  <rarity>Uncommon</rarity>
+  <number>81</number>
+  <type>Sorcery</type>
+  <name>Sanguimancy</name>
+  <set>Born of the Gods</set>
+  <mana>4 Black </mana>
+  <text>Black in the mana costs of permanents you control counts toward your devotion to black.)You draw X cards and you lose X life, where X is your devotion to black. </text>
+  <img>img_378453.jpg</img>
+</card>

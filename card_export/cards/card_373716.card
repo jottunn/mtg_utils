@@ -1,0 +1,14 @@
+<card>
+  <text>Trample, protection from enchantments
+4RedGreen: Monstrosity 3. 
+Whenever Polis Crusher deals combat damage to a player, if Polis Crusher is monstrous, destroy target enchantment that player controls.</text>
+  <pt>4 / 4</pt>
+  <name>Polis Crusher</name>
+  <rarity>Rare</rarity>
+  <mana>2 Red Green </mana>
+  <number>198</number>
+  <set>Theros</set>
+  <cmc>4</cmc>
+  <type>Creature  &#8212; Cyclops</type>
+  <img>img_373716.jpg</img>
+</card>

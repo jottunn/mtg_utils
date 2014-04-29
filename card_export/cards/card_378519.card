@@ -1,0 +1,14 @@
+<card>
+  <cmc>3</cmc>
+  <pt>3 / 3</pt>
+  <rarity>Uncommon</rarity>
+  <number>147</number>
+  <type>Creature  &#8212; Centaur Warrior</type>
+  <name>Fanatic of Xenagos</name>
+  <set>Born of the Gods</set>
+  <mana>1 Red Green </mana>
+  <text>Trample
+Tribute 1 
+When Fanatic of Xenagos enters the battlefield, if tribute wasn't paid, it gets +1/+1 and gains haste until end of turn.</text>
+  <img>img_378519.jpg</img>
+</card>

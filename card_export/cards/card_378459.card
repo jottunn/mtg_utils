@@ -1,0 +1,12 @@
+<card>
+  <cmc>5</cmc>
+  <pt>3 / 2</pt>
+  <rarity>Uncommon</rarity>
+  <number>87</number>
+  <type>Creature  &#8212; Human Shaman</type>
+  <name>Akroan Conscriptor</name>
+  <set>Born of the Gods</set>
+  <mana>4 Red </mana>
+  <text>Heroic &#8212; Whenever you cast a spell that targets Akroan Conscriptor, gain control of another target creature until end of turn. Untap that creature. It gains haste until end of turn.</text>
+  <img>img_378459.jpg</img>
+</card>

@@ -1,0 +1,12 @@
+<card>
+  <text>1, Sacrifice Traveler's Amulet: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.</text>
+  <pt></pt>
+  <name>Traveler's Amulet</name>
+  <rarity>Common</rarity>
+  <mana>1 </mana>
+  <number>221</number>
+  <set>Theros</set>
+  <cmc>1</cmc>
+  <type>Artifact</type>
+  <img>img_373690.jpg</img>
+</card>

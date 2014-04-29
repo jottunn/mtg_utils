@@ -1,0 +1,12 @@
+<card>
+  <cmc>1</cmc>
+  <pt></pt>
+  <rarity>Common</rarity>
+  <number>20</number>
+  <type>Instant</type>
+  <name>Mortal's Ardor</name>
+  <set>Born of the Gods</set>
+  <mana>White </mana>
+  <text>Target creature gets +1/+1 and gains lifelink until end of turn. </text>
+  <img>img_378392.jpg</img>
+</card>

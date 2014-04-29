@@ -1,0 +1,14 @@
+<card>
+  <text>Enchant creature
+When Chosen by Heliod enters the battlefield, draw a card.
+Enchanted creature gets +0/+2.</text>
+  <pt></pt>
+  <name>Chosen by Heliod</name>
+  <rarity>Common</rarity>
+  <mana>1 White </mana>
+  <number>5</number>
+  <set>Theros</set>
+  <cmc>2</cmc>
+  <type>Enchantment  &#8212; Aura</type>
+  <img>img_373561.jpg</img>
+</card>

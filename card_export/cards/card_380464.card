@@ -1,0 +1,12 @@
+<card>
+  <text>Constellation &#8212; Whenever Oakheart Dryads or another enchantment enters the battlefield under your control, target creature gets +1/+1 until end of turn.</text>
+  <mana>2 Green </mana>
+  <set>Journey into Nyx</set>
+  <type>Enchantment Creature  &#8212; Nymph Dryad</type>
+  <pt>2 / 3</pt>
+  <name>Oakheart Dryads</name>
+  <cmc>3</cmc>
+  <number>133</number>
+  <rarity>Common</rarity>
+  <img>img_380464.jpg</img>
+</card>

@@ -1,0 +1,13 @@
+<card>
+  <text>Flying
+2BlueRed: Scry 1, then reveal the top card of your library. Stormchaser Chimera gets +X/+0 until end of turn, where X is that card's converted mana cost. </text>
+  <mana>2 Blue Red </mana>
+  <set>Journey into Nyx</set>
+  <type>Creature  &#8212; Chimera</type>
+  <pt>2 / 3</pt>
+  <name>Stormchaser Chimera</name>
+  <cmc>4</cmc>
+  <number>156</number>
+  <rarity>Uncommon</rarity>
+  <img>img_380510.jpg</img>
+</card>

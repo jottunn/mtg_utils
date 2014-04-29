@@ -1,0 +1,13 @@
+<card>
+  <text>Flying
+Heroic &#8212; Whenever you cast a spell that targets Wingsteed Rider, put a +1/+1 counter on Wingsteed Rider.</text>
+  <pt>2 / 2</pt>
+  <name>Wingsteed Rider</name>
+  <rarity>Common</rarity>
+  <mana>1 White White </mana>
+  <number>36</number>
+  <set>Theros</set>
+  <cmc>3</cmc>
+  <type>Creature  &#8212; Human Knight</type>
+  <img>img_373563.jpg</img>
+</card>

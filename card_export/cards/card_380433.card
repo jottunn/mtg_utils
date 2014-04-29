@@ -1,0 +1,12 @@
+<card>
+  <text>Constellation &#8212; Whenever Harvestguard Alseids or another enchantment enters the battlefield under your control, prevent all damage that would be dealt to target creature this turn.</text>
+  <mana>2 White </mana>
+  <set>Journey into Nyx</set>
+  <type>Enchantment Creature  &#8212; Nymph</type>
+  <pt>2 / 3</pt>
+  <name>Harvestguard Alseids</name>
+  <cmc>3</cmc>
+  <number>13</number>
+  <rarity>Common</rarity>
+  <img>img_380433.jpg</img>
+</card>

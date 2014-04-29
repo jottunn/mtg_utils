@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <title>{% block title %}{% endblock %}</title>
+    {% load staticfiles %}
+    {% block extrahead %}{% endblock %}
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Bootstrap -->
+    <link href="{% static "bootstrap/css/bootstrap.min.css" %}" rel="stylesheet">
+    <style>
+    	.cards-wrapper{
+    		overflow: hidden;
+    	}
+    </style>
+</head>
+	<body>
+	<div class="container">	
+	{% block nav-global%}
+		<div class="row">
+			<h1>Pack Viewer</h1>
+			<ul class="nav nav-pills">
+			  <li class="active"><a href={% url "pack_viewer:home" %}>Home</a></li>
+			</ul>
+		</div>						
+	{% endblock %}	
+
+	{% block content %}{% endblock %}
+	</div>
+	{% block scripts%}
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+		<script src="{% static "bootstrap/js/bootstrap.min.js" %}"></script>
+	{% endblock %}
+	
+	</body>
+</html>
+

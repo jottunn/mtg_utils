@@ -1,0 +1,12 @@
+<card>
+  <text>Exile target enchantment. If the exiled card is a God card, search its controller's graveyard, hand, and library for any number of cards with the same name as that card and exile them, then that player shuffles his or her library.</text>
+  <mana>1 White </mana>
+  <set>Journey into Nyx</set>
+  <type>Instant</type>
+  <pt></pt>
+  <name>Deicide</name>
+  <cmc>2</cmc>
+  <number>7</number>
+  <rarity>Rare</rarity>
+  <img>img_380395.jpg</img>
+</card>

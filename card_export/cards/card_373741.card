@@ -1,0 +1,12 @@
+<card>
+  <text>2Blue, Tap: The controller of target instant or sorcery spell copies it. That player may choose new targets for the copy.</text>
+  <pt>2 / 3</pt>
+  <name>Meletis Charlatan</name>
+  <rarity>Rare</rarity>
+  <mana>2 Blue </mana>
+  <number>54</number>
+  <set>Theros</set>
+  <cmc>3</cmc>
+  <type>Creature  &#8212; Human Wizard</type>
+  <img>img_373741.jpg</img>
+</card>

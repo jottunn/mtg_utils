@@ -1,0 +1,12 @@
+<card>
+  <text>Until end of turn, up to two target creatures you control each gain "Whenever this creature deals combat damage to a player, draw a card."</text>
+  <pt></pt>
+  <name>Warriors' Lesson</name>
+  <rarity>Uncommon</rarity>
+  <mana>Green </mana>
+  <number>184</number>
+  <set>Theros</set>
+  <cmc>1</cmc>
+  <type>Instant</type>
+  <img>img_373613.jpg</img>
+</card>

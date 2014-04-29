@@ -1,0 +1,13 @@
+<card>
+  <cmc>3</cmc>
+  <pt></pt>
+  <rarity>Common</rarity>
+  <number>95</number>
+  <type>Enchantment  &#8212; Aura</type>
+  <name>Fearsome Temper</name>
+  <set>Born of the Gods</set>
+  <mana>2 Red </mana>
+  <text>Enchant creature
+2Red: Target creature can't block this creature this turn."Enchanted creature gets +2/+2 and has "</text>
+  <img>img_378467.jpg</img>
+</card>

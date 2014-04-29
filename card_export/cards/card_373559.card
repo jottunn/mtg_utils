@@ -1,0 +1,15 @@
+<card>
+  <text>Indestructible
+Green in the mana costs of permanents you control counts toward your devotion to green.)As long as your devotion to green is less than five, Nylea isn't a creature. 
+Other creatures you control have trample.
+3Green: Target creature gets +2/+2 until end of turn.</text>
+  <pt>6 / 6</pt>
+  <name>Nylea, God of the Hunt</name>
+  <rarity>Mythic Rare</rarity>
+  <mana>3 Green </mana>
+  <number>166</number>
+  <set>Theros</set>
+  <cmc>4</cmc>
+  <type>Legendary Enchantment Creature  &#8212; God</type>
+  <img>img_373559.jpg</img>
+</card>

@@ -1,0 +1,13 @@
+<card>
+  <text>Flying
+Whenever Cavalry Pegasus attacks, each attacking Human gains flying until end of turn.</text>
+  <pt>1 / 1</pt>
+  <name>Cavalry Pegasus</name>
+  <rarity>Common</rarity>
+  <mana>1 White </mana>
+  <number>2</number>
+  <set>Theros</set>
+  <cmc>2</cmc>
+  <type>Creature  &#8212; Pegasus</type>
+  <img>img_373684.jpg</img>
+</card>

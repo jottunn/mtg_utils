@@ -1,0 +1,13 @@
+<card>
+  <cmc>1</cmc>
+  <pt>0 / 1</pt>
+  <rarity>Uncommon</rarity>
+  <number>56</number>
+  <type>Creature  &#8212; Elemental</type>
+  <name>Vortex Elemental</name>
+  <set>Born of the Gods</set>
+  <mana>Blue </mana>
+  <text>Blue: Put Vortex Elemental and each creature blocking or blocked by it on top of their owners' libraries, then those players shuffle their libraries.
+3BlueBlue: Target creature blocks Vortex Elemental this turn if able.</text>
+  <img>img_378428.jpg</img>
+</card>

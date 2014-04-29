@@ -1,0 +1,12 @@
+<card>
+  <text>Return up to two target creature cards from your graveyard to your hand.</text>
+  <pt></pt>
+  <name>March of the Returned</name>
+  <rarity>Common</rarity>
+  <mana>3 Black </mana>
+  <number>96</number>
+  <set>Theros</set>
+  <cmc>4</cmc>
+  <type>Sorcery</type>
+  <img>img_373579.jpg</img>
+</card>

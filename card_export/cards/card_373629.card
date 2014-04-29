@@ -1,0 +1,12 @@
+<card>
+  <text>Target creature gets -3/-0 until end of turn. Scry 1. </text>
+  <pt></pt>
+  <name>Lost in a Labyrinth</name>
+  <rarity>Common</rarity>
+  <mana>Blue </mana>
+  <number>52</number>
+  <set>Theros</set>
+  <cmc>1</cmc>
+  <type>Instant</type>
+  <img>img_373629.jpg</img>
+</card>

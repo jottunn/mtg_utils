@@ -1,0 +1,13 @@
+<card>
+  <text>Heroic &#8212; Whenever you cast a spell that targets Sage of Hours, put a +1/+1 counter on it.
+Remove all +1/+1 counters from Sage of Hours: For each five counters removed this way, take an extra turn after this one.</text>
+  <mana>1 Blue </mana>
+  <set>Journey into Nyx</set>
+  <type>Creature  &#8212; Human Wizard</type>
+  <pt>1 / 1</pt>
+  <name>Sage of Hours</name>
+  <cmc>2</cmc>
+  <number>50</number>
+  <rarity>Mythic Rare</rarity>
+  <img>img_380491.jpg</img>
+</card>

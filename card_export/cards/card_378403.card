@@ -1,0 +1,13 @@
+<card>
+  <cmc>6</cmc>
+  <pt>4 / 5</pt>
+  <rarity>Rare</rarity>
+  <number>31</number>
+  <type>Creature  &#8212; Sphinx</type>
+  <name>Arbiter of the Ideal</name>
+  <set>Born of the Gods</set>
+  <mana>4 Blue Blue </mana>
+  <text>Flying
+Inspired &#8212; Whenever Arbiter of the Ideal becomes untapped, reveal the top card of your library. If it's an artifact, creature, or land card, you may put it onto the battlefield with a manifestation counter on it. That permanent is an enchantment in addition to its other types.</text>
+  <img>img_378403.jpg</img>
+</card>

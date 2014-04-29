@@ -1,0 +1,13 @@
+<card>
+  <text>Flying
+1White: Coastline Chimera can block an additional creature this turn.</text>
+  <pt>1 / 5</pt>
+  <name>Coastline Chimera</name>
+  <rarity>Common</rarity>
+  <mana>3 Blue </mana>
+  <number>44</number>
+  <set>Theros</set>
+  <cmc>4</cmc>
+  <type>Creature  &#8212; Chimera</type>
+  <img>img_373707.jpg</img>
+</card>

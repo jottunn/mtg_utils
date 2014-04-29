@@ -1,0 +1,12 @@
+<card>
+  <text>Destroy target artifact or enchantment. Destructive Revelry deals 2 damage to that permanent's controller.</text>
+  <pt></pt>
+  <name>Destructive Revelry</name>
+  <rarity>Uncommon</rarity>
+  <mana>Red Green </mana>
+  <number>192</number>
+  <set>Theros</set>
+  <cmc>2</cmc>
+  <type>Instant</type>
+  <img>img_373678.jpg</img>
+</card>

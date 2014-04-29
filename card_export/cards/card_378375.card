@@ -1,0 +1,13 @@
+<card>
+  <cmc>2</cmc>
+  <pt>1 / 1</pt>
+  <rarity>Common</rarity>
+  <number>3</number>
+  <type>Creature  &#8212; Human Soldier</type>
+  <name>Akroan Skyguard</name>
+  <set>Born of the Gods</set>
+  <mana>1 White </mana>
+  <text>Flying
+Heroic &#8212; Whenever you cast a spell that targets Akroan Skyguard, put a +1/+1 counter on Akroan Skyguard.</text>
+  <img>img_378375.jpg</img>
+</card>

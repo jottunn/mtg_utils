@@ -1,0 +1,13 @@
+<card>
+  <text>Flash
+At the beginning of each player's draw step, that player draws an additional card.</text>
+  <mana>1 Blue Blue </mana>
+  <set>Journey into Nyx</set>
+  <type>Enchantment</type>
+  <pt></pt>
+  <name>Dictate of Kruphix</name>
+  <cmc>3</cmc>
+  <number>37</number>
+  <rarity>Rare</rarity>
+  <img>img_380402.jpg</img>
+</card>

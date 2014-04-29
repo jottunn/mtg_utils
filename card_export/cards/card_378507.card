@@ -1,0 +1,14 @@
+<card>
+  <cmc>5</cmc>
+  <pt></pt>
+  <rarity>Uncommon</rarity>
+  <number>135</number>
+  <type>Enchantment  &#8212; Aura</type>
+  <name>Raised by Wolves</name>
+  <set>Born of the Gods</set>
+  <mana>3 Green Green </mana>
+  <text>Enchant creature
+When Raised by Wolves enters the battlefield, put two 2/2 green Wolf creature tokens onto the battlefield.
+Enchanted creature gets +1/+1 for each Wolf you control.</text>
+  <img>img_378507.jpg</img>
+</card>

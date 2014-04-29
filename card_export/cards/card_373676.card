@@ -1,0 +1,12 @@
+<card>
+  <text>Shredding Winds deals 7 damage to target creature with flying.</text>
+  <pt></pt>
+  <name>Shredding Winds</name>
+  <rarity>Common</rarity>
+  <mana>2 Green </mana>
+  <number>178</number>
+  <set>Theros</set>
+  <cmc>3</cmc>
+  <type>Instant</type>
+  <img>img_373676.jpg</img>
+</card>

@@ -1,0 +1,12 @@
+<card>
+  <text>Whenever a player casts a spell with converted mana cost 3 or less, Eidolon of the Great Revel deals 2 damage to that player.</text>
+  <mana>Red Red </mana>
+  <set>Journey into Nyx</set>
+  <type>Enchantment Creature  &#8212; Spirit</type>
+  <pt>2 / 2</pt>
+  <name>Eidolon of the Great Revel</name>
+  <cmc>2</cmc>
+  <number>94</number>
+  <rarity>Rare</rarity>
+  <img>img_380410.jpg</img>
+</card>

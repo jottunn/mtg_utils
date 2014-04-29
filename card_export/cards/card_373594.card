@@ -1,0 +1,12 @@
+<card>
+  <text>Heroic &#8212; Whenever you cast a spell that targets Centaur Battlemaster, put three +1/+1 counters on Centaur Battlemaster.</text>
+  <pt>3 / 3</pt>
+  <name>Centaur Battlemaster</name>
+  <rarity>Uncommon</rarity>
+  <mana>3 Green Green </mana>
+  <number>154</number>
+  <set>Theros</set>
+  <cmc>5</cmc>
+  <type>Creature  &#8212; Centaur Warrior</type>
+  <img>img_373594.jpg</img>
+</card>

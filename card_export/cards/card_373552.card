@@ -1,0 +1,13 @@
+<card>
+  <text>Whenever Firedrinker Satyr is dealt damage, it deals that much damage to you.
+1Red: Firedrinker Satyr gets +1/+0 until end of turn and deals 1 damage to you.</text>
+  <pt>2 / 1</pt>
+  <name>Firedrinker Satyr</name>
+  <rarity>Rare</rarity>
+  <mana>Red </mana>
+  <number>122</number>
+  <set>Theros</set>
+  <cmc>1</cmc>
+  <type>Creature  &#8212; Satyr Shaman</type>
+  <img>img_373552.jpg</img>
+</card>

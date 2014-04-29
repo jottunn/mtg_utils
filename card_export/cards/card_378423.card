@@ -1,0 +1,13 @@
+<card>
+  <cmc>5</cmc>
+  <pt>2 / 2</pt>
+  <rarity>Common</rarity>
+  <number>51</number>
+  <type>Creature  &#8212; Human Wizard</type>
+  <name>Sphinx's Disciple</name>
+  <set>Born of the Gods</set>
+  <mana>3 Blue Blue </mana>
+  <text>Flying
+Inspired &#8212; Whenever Sphinx's Disciple becomes untapped, draw a card.</text>
+  <img>img_378423.jpg</img>
+</card>

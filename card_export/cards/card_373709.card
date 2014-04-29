@@ -1,0 +1,13 @@
+<card>
+  <text>Creatures you control have lifelink.
+2BlackBlack, Tap: Return target creature card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step. If it would leave the battlefield, exile it instead of putting it anywhere else. Activate this ability only any time you could cast a sorcery.</text>
+  <pt></pt>
+  <name>Whip of Erebos</name>
+  <rarity>Rare</rarity>
+  <mana>2 Black Black </mana>
+  <number>110</number>
+  <set>Theros</set>
+  <cmc>4</cmc>
+  <type>Legendary Enchantment Artifact</type>
+  <img>img_373709.jpg</img>
+</card>

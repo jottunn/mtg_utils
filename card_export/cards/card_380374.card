@@ -1,0 +1,14 @@
+<card>
+  <text>Indestructible
+As long as your devotion to white and black is less than seven, Athreos isn't a creature.
+Whenever another creature you own dies, return it to your hand unless target opponent pays 3 life.</text>
+  <mana>1 White Black </mana>
+  <set>Journey into Nyx</set>
+  <type>Legendary Enchantment Creature  &#8212; God</type>
+  <pt>5 / 4</pt>
+  <name>Athreos, God of Passage</name>
+  <cmc>3</cmc>
+  <number>146</number>
+  <rarity>Mythic Rare</rarity>
+  <img>img_380374.jpg</img>
+</card>

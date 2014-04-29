@@ -1,0 +1,12 @@
+<card>
+  <text>Rage of Purphoros deals 4 damage to target creature. It can't be regenerated this turn. Scry 1. </text>
+  <pt></pt>
+  <name>Rage of Purphoros</name>
+  <rarity>Common</rarity>
+  <mana>4 Red </mana>
+  <number>137</number>
+  <set>Theros</set>
+  <cmc>5</cmc>
+  <type>Sorcery</type>
+  <img>img_373663.jpg</img>
+</card>

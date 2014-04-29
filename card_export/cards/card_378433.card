@@ -1,0 +1,12 @@
+<card>
+  <cmc>2</cmc>
+  <pt></pt>
+  <rarity>Uncommon</rarity>
+  <number>61</number>
+  <type>Instant</type>
+  <name>Bile Blight</name>
+  <set>Born of the Gods</set>
+  <mana>Black Black </mana>
+  <text>Target creature and all other creatures with the same name as that creature get -3/-3 until end of turn.</text>
+  <img>img_378433.jpg</img>
+</card>

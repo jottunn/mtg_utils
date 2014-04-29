@@ -1,0 +1,13 @@
+<card>
+  <text>Flying, lifelink
+Heroic &#8212; Whenever you cast a spell that targets Dawnbringer Charioteers, put a +1/+1 counter on Dawnbringer Charioteers.</text>
+  <mana>2 White White </mana>
+  <set>Journey into Nyx</set>
+  <type>Creature  &#8212; Human Soldier</type>
+  <pt>2 / 4</pt>
+  <name>Dawnbringer Charioteers</name>
+  <cmc>4</cmc>
+  <number>6</number>
+  <rarity>Rare</rarity>
+  <img>img_380394.jpg</img>
+</card>

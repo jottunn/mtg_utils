@@ -1,0 +1,13 @@
+<card>
+  <text>Whenever a creature you control deals combat damage to a player, you may draw a card.
+1Blue, Tap: Creatures your opponents control attack this turn if able.</text>
+  <pt></pt>
+  <name>Bident of Thassa</name>
+  <rarity>Rare</rarity>
+  <mana>2 Blue Blue </mana>
+  <number>42</number>
+  <set>Theros</set>
+  <cmc>4</cmc>
+  <type>Legendary Enchantment Artifact</type>
+  <img>img_373544.jpg</img>
+</card>

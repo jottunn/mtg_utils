@@ -1,0 +1,15 @@
+<card>
+  <text>5BlueBlue Bestow 
+Flying
+You control enchanted creature.
+Enchanted creature gets +1/+1 and has flying.</text>
+  <mana>Blue </mana>
+  <set>Journey into Nyx</set>
+  <type>Enchantment Creature  &#8212; Siren</type>
+  <pt>1 / 1</pt>
+  <name>Hypnotic Siren</name>
+  <cmc>1</cmc>
+  <number>42</number>
+  <rarity>Rare</rarity>
+  <img>img_380439.jpg</img>
+</card>

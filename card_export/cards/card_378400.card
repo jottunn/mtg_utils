@@ -1,0 +1,13 @@
+<card>
+  <cmc>4</cmc>
+  <pt></pt>
+  <rarity>Uncommon</rarity>
+  <number>28</number>
+  <type>Enchantment  &#8212; Aura</type>
+  <name>Sunbond</name>
+  <set>Born of the Gods</set>
+  <mana>3 White </mana>
+  <text>Enchant creature
+Enchanted creature has "Whenever you gain life, put that many +1/+1 counters on this creature."</text>
+  <img>img_378400.jpg</img>
+</card>

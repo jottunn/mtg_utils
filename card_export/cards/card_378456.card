@@ -1,0 +1,14 @@
+<card>
+  <cmc>2</cmc>
+  <pt>1 / 1</pt>
+  <rarity>Uncommon</rarity>
+  <number>84</number>
+  <type>Enchantment Creature  &#8212; Zombie</type>
+  <name>Spiteful Returned</name>
+  <set>Born of the Gods</set>
+  <mana>1 Black </mana>
+  <text>3Black Bestow 
+Whenever Spiteful Returned or enchanted creature attacks, defending player loses 2 life.
+Enchanted creature gets +1/+1.</text>
+  <img>img_378456.jpg</img>
+</card>

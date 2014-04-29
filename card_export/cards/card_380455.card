@@ -1,0 +1,13 @@
+<card>
+  <text>Flying
+At the beginning of your upkeep, each opponent draws a card.</text>
+  <mana>1 Black Black </mana>
+  <set>Journey into Nyx</set>
+  <type>Enchantment Creature  &#8212; Demon</type>
+  <pt>5 / 5</pt>
+  <name>Master of the Feast</name>
+  <cmc>3</cmc>
+  <number>75</number>
+  <rarity>Rare</rarity>
+  <img>img_380455.jpg</img>
+</card>

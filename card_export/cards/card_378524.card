@@ -1,0 +1,14 @@
+<card>
+  <cmc>5</cmc>
+  <pt>4 / 7</pt>
+  <rarity>Mythic Rare</rarity>
+  <number>152</number>
+  <type>Legendary Enchantment Creature  &#8212; God</type>
+  <name>Phenax, God of Deception</name>
+  <set>Born of the Gods</set>
+  <mana>3 Blue Black </mana>
+  <text>Indestructible
+As long as your devotion to blue and black is less than seven, Phenax isn't a creature.
+Tap: Target player puts the top X cards of his or her library into his or her graveyard, where X is this creature's toughness."Creatures you control have "</text>
+  <img>img_378524.jpg</img>
+</card>

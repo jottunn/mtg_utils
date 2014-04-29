@@ -1,0 +1,12 @@
+<card>
+  <cmc>3</cmc>
+  <pt></pt>
+  <rarity>Common</rarity>
+  <number>77</number>
+  <type>Instant</type>
+  <name>Necrobite</name>
+  <set>Born of the Gods</set>
+  <mana>2 Black </mana>
+  <text>Target creature gains deathtouch until end of turn. Regenerate it.</text>
+  <img>img_378449.jpg</img>
+</card>

@@ -1,0 +1,12 @@
+<card>
+  <text>Draw three cards. Target player puts the top three cards of his or her library into his or her graveyard.</text>
+  <pt></pt>
+  <name>Thassa's Bounty</name>
+  <rarity>Common</rarity>
+  <mana>5 Blue </mana>
+  <number>67</number>
+  <set>Theros</set>
+  <cmc>6</cmc>
+  <type>Sorcery</type>
+  <img>img_373662.jpg</img>
+</card>

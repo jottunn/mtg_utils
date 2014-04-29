@@ -1,0 +1,13 @@
+<card>
+  <text>Creatures you control get +1/+1.
+1WhiteWhite, Tap: Destroy target creature that dealt damage to you this turn.</text>
+  <pt></pt>
+  <name>Spear of Heliod</name>
+  <rarity>Rare</rarity>
+  <mana>1 White White </mana>
+  <number>33</number>
+  <set>Theros</set>
+  <cmc>3</cmc>
+  <type>Legendary Enchantment Artifact</type>
+  <img>img_373717.jpg</img>
+</card>

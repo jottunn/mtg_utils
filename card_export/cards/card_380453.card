@@ -1,0 +1,12 @@
+<card>
+  <text>Tap, Pay 1 life: Add one mana of any color to your mana pool.</text>
+  <mana></mana>
+  <set>Journey into Nyx</set>
+  <type>Land</type>
+  <pt></pt>
+  <name>Mana Confluence</name>
+  <cmc>Mana Confluence</cmc>
+  <number>163</number>
+  <rarity>Rare</rarity>
+  <img>img_380453.jpg</img>
+</card>

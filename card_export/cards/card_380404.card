@@ -1,0 +1,12 @@
+<card>
+  <text>Inspired &#8212; Whenever Disciple of Deceit becomes untapped, you may discard a nonland card. If you do, search your library for a card with the same converted mana cost as that card, reveal it, put it into your hand, then shuffle your library.</text>
+  <mana>Blue Black </mana>
+  <set>Journey into Nyx</set>
+  <type>Creature  &#8212; Human Rogue</type>
+  <pt>1 / 3</pt>
+  <name>Disciple of Deceit</name>
+  <cmc>2</cmc>
+  <number>148</number>
+  <rarity>Uncommon</rarity>
+  <img>img_380404.jpg</img>
+</card>

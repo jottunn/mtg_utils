@@ -1,0 +1,12 @@
+<card>
+  <text>Up to two target creatures each get +1/+0 and gain first strike until end of turn.</text>
+  <pt></pt>
+  <name>Coordinated Assault</name>
+  <rarity>Uncommon</rarity>
+  <mana>Red </mana>
+  <number>116</number>
+  <set>Theros</set>
+  <cmc>1</cmc>
+  <type>Instant</type>
+  <img>img_373513.jpg</img>
+</card>

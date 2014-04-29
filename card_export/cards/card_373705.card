@@ -1,0 +1,12 @@
+<card>
+  <text>Whenever you scry, Flamespeaker Adept gets +2/+0 and gains first strike until end of turn.</text>
+  <pt>2 / 3</pt>
+  <name>Flamespeaker Adept</name>
+  <rarity>Uncommon</rarity>
+  <mana>2 Red </mana>
+  <number>123</number>
+  <set>Theros</set>
+  <cmc>3</cmc>
+  <type>Creature  &#8212; Human Shaman</type>
+  <img>img_373705.jpg</img>
+</card>

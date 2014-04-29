@@ -1,0 +1,13 @@
+<card>
+  <text>As Hall of Triumph enters the battlefield, choose a color.
+Creatures you control of the chosen color get +1/+1.</text>
+  <mana>3 </mana>
+  <set>Journey into Nyx</set>
+  <type>Legendary Artifact</type>
+  <pt></pt>
+  <name>Hall of Triumph</name>
+  <cmc>3</cmc>
+  <number>162</number>
+  <rarity>Rare</rarity>
+  <img>img_380431.jpg</img>
+</card>

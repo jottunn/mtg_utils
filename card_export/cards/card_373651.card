@@ -1,0 +1,12 @@
+<card>
+  <text>Lightning Strike deals 3 damage to target creature or player.</text>
+  <pt></pt>
+  <name>Lightning Strike</name>
+  <rarity>Common</rarity>
+  <mana>1 Red </mana>
+  <number>127</number>
+  <set>Theros</set>
+  <cmc>2</cmc>
+  <type>Instant</type>
+  <img>img_373651.jpg</img>
+</card>

@@ -1,0 +1,12 @@
+<card>
+  <text>Tap: Add an amount of Green to your mana pool equal to your devotion to green. Green in the mana costs of permanents you control counts toward your devotion to green.)</text>
+  <pt>1 / 4</pt>
+  <name>Karametra's Acolyte</name>
+  <rarity>Uncommon</rarity>
+  <mana>3 Green </mana>
+  <number>160</number>
+  <set>Theros</set>
+  <cmc>4</cmc>
+  <type>Creature  &#8212; Human Druid</type>
+  <img>img_373538.jpg</img>
+</card>

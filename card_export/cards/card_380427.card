@@ -1,0 +1,12 @@
+<card>
+  <text>Tap: Add Green to your mana pool.</text>
+  <mana>1 Green </mana>
+  <set>Journey into Nyx</set>
+  <type>Creature  &#8212; Elk</type>
+  <pt>2 / 1</pt>
+  <name>Golden Hind</name>
+  <cmc>2</cmc>
+  <number>124</number>
+  <rarity>Common</rarity>
+  <img>img_380427.jpg</img>
+</card>

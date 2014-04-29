@@ -1,0 +1,13 @@
+<card>
+  <text>Trample
+Other Minotaur creatures you control get +1/+1 and have trample.</text>
+  <pt>2 / 3</pt>
+  <name>Rageblood Shaman</name>
+  <rarity>Rare</rarity>
+  <mana>1 Red Red </mana>
+  <number>138</number>
+  <set>Theros</set>
+  <cmc>3</cmc>
+  <type>Creature  &#8212; Minotaur Shaman</type>
+  <img>img_373672.jpg</img>
+</card>

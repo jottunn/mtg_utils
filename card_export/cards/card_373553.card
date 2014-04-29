@@ -1,0 +1,14 @@
+<card>
+  <text>Enchant creature
+Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it has three or more +1/+1 counters on it, sacrifice Ordeal of Nylea.
+When you sacrifice Ordeal of Nylea, search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library.</text>
+  <pt></pt>
+  <name>Ordeal of Nylea</name>
+  <rarity>Uncommon</rarity>
+  <mana>1 Green </mana>
+  <number>170</number>
+  <set>Theros</set>
+  <cmc>2</cmc>
+  <type>Enchantment  &#8212; Aura</type>
+  <img>img_373553.jpg</img>
+</card>

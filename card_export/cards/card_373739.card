@@ -1,0 +1,12 @@
+<card>
+  <text>Destroy target enchantment. You gain 3 life.</text>
+  <pt></pt>
+  <name>Ray of Dissolution</name>
+  <rarity>Common</rarity>
+  <mana>2 White </mana>
+  <number>27</number>
+  <set>Theros</set>
+  <cmc>3</cmc>
+  <type>Instant</type>
+  <img>img_373739.jpg</img>
+</card>

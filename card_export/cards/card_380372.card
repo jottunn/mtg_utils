@@ -1,0 +1,13 @@
+<card>
+  <text>Whenever equipped creature attacks, put a +1/+1 counter on it.
+2Equip </text>
+  <mana>2 </mana>
+  <set>Journey into Nyx</set>
+  <type>Artifact  &#8212; Equipment</type>
+  <pt></pt>
+  <name>Armory of Iroas</name>
+  <cmc>2</cmc>
+  <number>158</number>
+  <rarity>Uncommon</rarity>
+  <img>img_380372.jpg</img>
+</card>

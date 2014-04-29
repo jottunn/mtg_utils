@@ -1,0 +1,12 @@
+<card>
+  <text>5, Tap, Sacrifice Flamecast Wheel: Flamecast Wheel deals 3 damage to target creature.</text>
+  <pt></pt>
+  <name>Flamecast Wheel</name>
+  <rarity>Uncommon</rarity>
+  <mana>1 </mana>
+  <number>215</number>
+  <set>Theros</set>
+  <cmc>1</cmc>
+  <type>Artifact</type>
+  <img>img_373514.jpg</img>
+</card>

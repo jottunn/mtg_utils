@@ -1,0 +1,14 @@
+<card>
+  <cmc>4</cmc>
+  <pt>6 / 5</pt>
+  <rarity>Mythic Rare</rarity>
+  <number>145</number>
+  <type>Legendary Enchantment Creature  &#8212; God</type>
+  <name>Ephara, God of the Polis</name>
+  <set>Born of the Gods</set>
+  <mana>2 White Blue </mana>
+  <text>Indestructible
+As long as your devotion to white and blue is less than seven, Ephara isn't a creature.
+At the beginning of each upkeep, if you had another creature enter the battlefield under your control last turn, draw a card.</text>
+  <img>img_378517.jpg</img>
+</card>

@@ -1,0 +1,14 @@
+<card>
+  <cmc>5</cmc>
+  <pt>3 / 3</pt>
+  <rarity>Uncommon</rarity>
+  <number>23</number>
+  <type>Creature  &#8212; Archon</type>
+  <name>Ornitharch</name>
+  <set>Born of the Gods</set>
+  <mana>3 White White </mana>
+  <text>Flying
+Tribute 2 
+When Ornitharch enters the battlefield, if tribute wasn't paid, put two 1/1 white Bird creature tokens with flying onto the battlefield.</text>
+  <img>img_378395.jpg</img>
+</card>

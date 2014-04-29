@@ -1,0 +1,12 @@
+<card>
+  <text>3Black, Sacrifice Font of Return: Return up to three target creature cards from your graveyard to your hand.</text>
+  <mana>1 Black </mana>
+  <set>Journey into Nyx</set>
+  <type>Enchantment</type>
+  <pt></pt>
+  <name>Font of Return</name>
+  <cmc>2</cmc>
+  <number>71</number>
+  <rarity>Common</rarity>
+  <img>img_380420.jpg</img>
+</card>

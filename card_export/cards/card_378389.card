@@ -1,0 +1,13 @@
+<card>
+  <cmc>2</cmc>
+  <pt>2 / 2</pt>
+  <rarity>Rare</rarity>
+  <number>17</number>
+  <type>Creature  &#8212; Human Soldier</type>
+  <name>Hero of Iroas</name>
+  <set>Born of the Gods</set>
+  <mana>1 White </mana>
+  <text>1 less to cast.Aura spells you cast cost 
+Heroic &#8212; Whenever you cast a spell that targets Hero of Iroas, put a +1/+1 counter on Hero of Iroas.</text>
+  <img>img_378389.jpg</img>
+</card>

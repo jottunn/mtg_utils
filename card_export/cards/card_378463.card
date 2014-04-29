@@ -1,0 +1,13 @@
+<card>
+  <cmc>1</cmc>
+  <pt></pt>
+  <rarity>Common</rarity>
+  <number>91</number>
+  <type>Enchantment  &#8212; Aura</type>
+  <name>Epiphany Storm</name>
+  <set>Born of the Gods</set>
+  <mana>Red </mana>
+  <text>Enchant creature
+Red, Tap, Discard a card: Draw a card."Enchanted creature has "</text>
+  <img>img_378463.jpg</img>
+</card>

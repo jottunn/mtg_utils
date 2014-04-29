@@ -1,0 +1,12 @@
+<card>
+  <cmc>1</cmc>
+  <pt></pt>
+  <rarity>Common</rarity>
+  <number>67</number>
+  <type>Instant</type>
+  <name>Eye Gouge</name>
+  <set>Born of the Gods</set>
+  <mana>Black </mana>
+  <text>Target creature gets -1/-1 until end of turn. If it's a Cyclops, destroy it.</text>
+  <img>img_378439.jpg</img>
+</card>

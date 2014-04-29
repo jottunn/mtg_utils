@@ -1,0 +1,13 @@
+<card>
+  <text>Equipped creature has first strike, trample, and haste.
+1Equip </text>
+  <mana>3 </mana>
+  <set>Journey into Nyx</set>
+  <type>Artifact  &#8212; Equipment</type>
+  <pt></pt>
+  <name>Chariot of Victory</name>
+  <cmc>3</cmc>
+  <number>159</number>
+  <rarity>Uncommon</rarity>
+  <img>img_380384.jpg</img>
+</card>

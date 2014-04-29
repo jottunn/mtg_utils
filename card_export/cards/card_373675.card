@@ -1,0 +1,14 @@
+<card>
+  <text>Flying
+Whenever Medomai the Ageless deals combat damage to a player, take an extra turn after this one.
+Medomai the Ageless can't attack during extra turns.</text>
+  <pt>4 / 4</pt>
+  <name>Medomai the Ageless</name>
+  <rarity>Mythic Rare</rarity>
+  <mana>4 White Blue </mana>
+  <number>196</number>
+  <set>Theros</set>
+  <cmc>6</cmc>
+  <type>Legendary Creature  &#8212; Sphinx</type>
+  <img>img_373675.jpg</img>
+</card>

@@ -1,0 +1,12 @@
+<card>
+  <text>Heroic &#8212; Whenever you cast a spell that targets Battlewise Hoplite, put a +1/+1 counter on Battlewise Hoplite, then scry 1. </text>
+  <pt>2 / 2</pt>
+  <name>Battlewise Hoplite</name>
+  <rarity>Uncommon</rarity>
+  <mana>White Blue </mana>
+  <number>189</number>
+  <set>Theros</set>
+  <cmc>2</cmc>
+  <type>Creature  &#8212; Human Soldier</type>
+  <img>img_373612.jpg</img>
+</card>

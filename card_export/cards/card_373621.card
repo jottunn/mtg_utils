@@ -1,0 +1,12 @@
+<card>
+  <text>When Chronicler of Heroes enters the battlefield, draw a card if you control a creature with a +1/+1 counter on it.</text>
+  <pt>3 / 3</pt>
+  <name>Chronicler of Heroes</name>
+  <rarity>Uncommon</rarity>
+  <mana>1 Green White </mana>
+  <number>190</number>
+  <set>Theros</set>
+  <cmc>3</cmc>
+  <type>Creature  &#8212; Centaur Wizard</type>
+  <img>img_373621.jpg</img>
+</card>

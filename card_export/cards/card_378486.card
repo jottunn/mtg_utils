@@ -1,0 +1,13 @@
+<card>
+  <cmc>2</cmc>
+  <pt></pt>
+  <rarity>Uncommon</rarity>
+  <number>114</number>
+  <type>Enchantment  &#8212; Aura</type>
+  <name>Thunderous Might</name>
+  <set>Born of the Gods</set>
+  <mana>1 Red </mana>
+  <text>Enchant creature
+Red in the mana costs of permanents you control counts toward your devotion to red.)Whenever enchanted creature attacks, it gets +X/+0 until end of turn, where X is your devotion to red. </text>
+  <img>img_378486.jpg</img>
+</card>

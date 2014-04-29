@@ -1,0 +1,14 @@
+<card>
+  <text>1, Tap: Put a fate counter on another target creature.
+White, Tap: Exile target creature that has a fate counter on it, then return it to the battlefield under its owner's control.
+Black, Tap: Exile target creature that has a fate counter on it. Its controller draws two cards.</text>
+  <pt>3 / 3</pt>
+  <name>Triad of Fates</name>
+  <rarity>Rare</rarity>
+  <mana>2 White Black </mana>
+  <number>206</number>
+  <set>Theros</set>
+  <cmc>4</cmc>
+  <type>Legendary Creature  &#8212; Human Wizard</type>
+  <img>img_373685.jpg</img>
+</card>

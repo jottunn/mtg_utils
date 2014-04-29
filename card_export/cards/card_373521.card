@@ -1,0 +1,13 @@
+<card>
+  <text>Enchant Mountain you control
+When Chained to the Rocks enters the battlefield, exile target creature an opponent controls until Chained to the Rocks leaves the battlefield. </text>
+  <pt></pt>
+  <name>Chained to the Rocks</name>
+  <rarity>Rare</rarity>
+  <mana>White </mana>
+  <number>4</number>
+  <set>Theros</set>
+  <cmc>1</cmc>
+  <type>Enchantment  &#8212; Aura</type>
+  <img>img_373521.jpg</img>
+</card>
