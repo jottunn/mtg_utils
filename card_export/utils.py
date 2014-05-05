@@ -166,17 +166,20 @@ def get_cards_by_rarity(set_id, rarity):
 
 
 #calculate color
-def get_card_color(card_id):
+def get_card_color(cost):
     import re
     
-    card = connect_to_db()
-    sql  = """SELECT cost FROM pack_viewer_cards
-                WHERE id = '%d'""" %(card_id)
-                
-    card.execute(sql)
-    cost = card.fetchone()[0]
-    card.close()
-    
+#     card = connect_to_db()
+#     sql  = """SELECT cost FROM pack_viewer_cards
+#                 WHERE id = '%d'""" %(card_id)
+#                 
+#     card.execute(sql)
+#     cost = card.fetchone()[0]
+#     card.close()
+    if cost is None:
+        clr = "land"
+        return clr    
+        
     white     = re.compile('White')
     blue      = re.compile('Blue')
     red       = re.compile('Red')
@@ -193,26 +196,23 @@ def get_card_color(card_id):
     
     color_cnt = 0
     
-    for color, color_name in colors.items():
-        try:
-            clr = cost
-        except:
-            clr = "land"
-            break
-            
+    for color, color_name in colors.items():            
         if color.search(cost):
             color_cnt += 1
             mono_color = color_name
-
-                   
-    if color_cnt > 1 and not colorless.match(cost) or (color_cnt > 2):
+            print(mono_color) 
+                  
+    if (color_cnt > 1 and not colorless.search(cost)) or (color_cnt > 2):
         clr = "multicolor"
-    elif color_cnt == 1 and  colorless.match(cost):
+    elif color_cnt == 1 and  colorless.search(cost):
         clr = "colorless"
-    elif color_cnt == 2 or (color_cnt == 1 and colorless.match(cost)):
+    elif (color_cnt == 1 and  not colorless.search(cost)) or (color_cnt == 2 and colorless.search(cost)):
         clr = mono_color
-              
-    return clr            
+        
+    else:
+        clr = "color not calculated"
+                
+    return clr           
             
         
 #store cards in db
