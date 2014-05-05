@@ -33,24 +33,24 @@ def pack_generator(request, url):
         
         comm_imgs = []
         for common in pack.commons:
-            img   = Cards.objects.get(id=common)
-            color = utils.get_card_color(img.id)           
+            img   = Cards.objects.get(pk=common)
+            color = utils.get_card_color(img.cost)           
             comm_imgs.append((img.img, color))
         
         uncomm_imgs= []
         for uncommons in pack.uncommons:
-            img = Cards.objects.get(id=uncommons)
-            color = utils.get_card_color(img.id)
+            img = Cards.objects.get(pk=uncommons)
+            color = utils.get_card_color(img.cost)
             uncomm_imgs.append((img.img, color)) 
           
         img = Cards.objects.get(pk=pack.rare[0])
-        color = utils.get_card_color(img.id)
-        rare_img = [(img.img, color),]
+        color = utils.get_card_color(img.cost)
+        rare_img = [(img.img, color)]
         
         try:
             img = Cards.objects.get(pk=int(pack.foil[0]))
-            color = utils.get_card_color(img.id)
-            foil_img = [(img.img, color),]
+            color = utils.get_card_color(img.cost)
+            foil_img = [(img.img, color)]
         except:
             foil_img = ""
             
