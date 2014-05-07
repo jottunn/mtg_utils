@@ -6,7 +6,7 @@ from django.db import models
 
 class Cards(models.Model):
     set = models.ForeignKey('Sets', blank=True, null=True)
-    set_number = models.FloatField(blank=True, null=True)
+    set_number = models.IntegerField(blank=True, null=True)
     name = models.CharField(max_length=60, blank=True)
     type = models.CharField(max_length=60, blank=True)
     rarity = models.CharField(max_length=60, blank=True)
@@ -24,8 +24,8 @@ class Cards(models.Model):
 
 class Sets(models.Model):
     name = models.CharField(max_length=60, blank=True)
-    gatherer_start = models.FloatField(blank=True, null=True)
-    gatherer_stop = models.FloatField(blank=True, null=True)
+    gatherer_start = models.IntegerField(blank=True, null=True)
+    gatherer_stop = models.IntegerField(blank=True, null=True)
       
     def __str__(self):              
         return self.name
