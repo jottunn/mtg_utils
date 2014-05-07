@@ -5,5 +5,5 @@ import os
 #Database credentials
 user     = "postgres"
 password = "geografie"
-db       = "mydb"
+db       = "django"
 host     = "localhost"

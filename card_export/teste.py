@@ -1,15 +1,10 @@
-import utils
-
-print(utils.get_card_color(293))
+import card_export.utils as utils
 
 
-# pack['1'] = {'commons': [(card_id, culoare), 
-#                          (card_id, culoare),],
-#              'uncommons': [(card_id, culoare),
-#                            (card_id, culoare),]
-#              'rare': [(card_id, culoare),]
-#              'foil': [(card_id, culoare}
-#              } 
+
+utils.store_cards(1)
+utils.store_cards(2)
+utils.store_cards(3)
         
     
     
