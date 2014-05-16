@@ -17,6 +17,9 @@ class Cards(models.Model):
     gatherer_id = models.IntegerField(blank=True, null=True)
     img = models.CharField(max_length=30, blank=True)
     
+    class Meta:
+        verbose_name_plural = "Cards"
+    
     def __str__(self):              
         return self.name
 
@@ -25,6 +28,9 @@ class Sets(models.Model):
     name = models.CharField(max_length=60, blank=True)
     gatherer_start = models.IntegerField(blank=True, null=True)
     gatherer_stop = models.IntegerField(blank=True, null=True)
+    
+    class Meta:
+        verbose_name_plural = "Sets"
       
     def __str__(self):              
         return self.name
