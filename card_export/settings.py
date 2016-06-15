@@ -3,7 +3,7 @@
 import os
 
 #Database credentials
-user     = "postgres"
-password = "geografie"
-db       = "django"
-host     = "localhost"
+user     = ""
+password = ""
+db       = ""
+host     = ""
